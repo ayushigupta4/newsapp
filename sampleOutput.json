@@ -1,734 +1,1006 @@
 {
-    "status": "ok",
-    "totalResults": 56,
-    "articles": [
+  "status": "ok",
+  "totalResults": 2369,
+  "articles": [
     {
-    "source": {
-    "id": null,
-    "name": "AppleInsider"
-    },
-    "author": "news@appleinsider.com (Christine McKee)",
-    "title": "Grab Apple's new M3 MacBook Air for $999",
-    "description": "Apple's M3 MacBook Air 13-inch is in stock and ready to ship in the standard configuration with exclusive coupon savings driving prices down to as low as $999. Plus, save $40 on AppleCare.Save on every M3 MacBook Air with coupon code.To activate the deals, ap…",
-    "url": "https://appleinsider.com/articles/24/03/31/grab-apples-new-m3-macbook-air-for-999",
-    "urlToImage": "https://photos5.appleinsider.com/gallery/59149-120730-m3-macbook-air-coupon-xl.jpg",
-    "publishedAt": "2024-03-31T03:39:06Z",
-    "content": "Save on every M3 MacBook Air with coupon code.\r\nApple's M3 MacBook Air 13-inch is in stock and ready to ship in the standard configuration with exclusive coupon savings driving prices down to as low … [+1868 chars]"
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Brianna Parkins",
+      "title": "‘My brother-in-law loves the Zoo, Milky Way stars and big diggers: yes, he’s six’",
+      "description": "rianna Parkins: He doesn’t pull out his phone at a family gathering and subject the room to videos about cryptocurrency or his golf swing, but he will happily share his favourite YouTube clips about how planes land",
+      "url": "https://www.irishtimes.com/life-style/people/2024/03/30/my-brother-in-law-loves-the-zoo-milky-way-stars-and-big-diggers-yes-hes-six/",
+      "urlToImage": "https://www.irishtimes.com/resizer/yhe0_C4cltlKZZxhX02yD7dh_SM=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/GNEEX5LLHNETTI5DA6HVNKIOKM.jpg",
+      "publishedAt": "2024-03-30T05:00:00Z",
+      "content": "My partner pops his head into my office (okay, a wardrobe overflow area with a desk) to ask if his brother can crash at ours in a few weeks.\r\nI am delighted. The last time my brother-in-law came to s… [+4542 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Gizmodo.jp"
-    },
-    "author": "はらいさん",
-    "title": "【オフ会】ギズモードのDiscord民といっしょにApple Vision Proを体験してきた",
-    "description": "Photo:はらいさん結果、大盛り上がりの楽しいイベントになりました！2024年3月27日、ギズモード・ジャパンのDiscordコミュニティ「GIZMODOWOODS（ギズモードウッズ）」のオフラインイベントが開催されました。会場では今年2月に米国で発売されたAppleVisionProを無料で試せる体験会も併設。イベントの様子をお届けします！Discordコミュニティ「GIZMODOWOODS」",
-    "url": "https://www.gizmodo.jp/2024/03/gizmodo-woods-offline-event.html",
-    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/03/27/DSC01741.JPG?w=1280&h=630&f=jpg",
-    "publishedAt": "2024-03-31T03:00:00Z",
-    "content": "2024327DiscordGIZMODO WOODS\r\n2Apple Vision Pro\r\nGIZMODO WOODS&amp;Apple Vision ProDiscordGIZMODO WOODSApple Vision Pro\r\nGIZMODO WOODS4,300Minecraft\r\n15\r\nQRDiscordApple Vision ProiPad\r\n15Apple Vision … [+223 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Times Of India",
+      "title": "Live Score: Bangladesh vs Sri Lanka, 2nd Test Day 1",
+      "description": "Stay updated with Times of India to get all the live cricket score updates, scorecard, and ball by ball commentary of the second Test between Banglad",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/bangladesh-vs-sri-lanka-live-cricket-score-updates-2nd-test-from-chattogram/liveblog/108890675.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108890675,width-1070,height-580,imgsize-35352,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-30T04:36:37Z",
+      "content": "Hasan Mahmud to Nishan Madushka, Pitches it up, on middle, Nishan Madushka blocks it down the pitch.\r\nHasan Mahmud to Nishan Madushka, BEATEN! Hasan Mahmud bangs this one short and on off, nips back … [+8602 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "The Indian Express"
-    },
-    "author": "Neerja Chowdhury",
-    "title": "In Pawar vs Pawar battle for Baramati, echoes of a larger war for Maharashtra",
-    "description": "The contest between Sharad Pawar’s daughter Supriya Sule and Ajit Pawar’s wife Sunetra begs the question: Is Pawar’s politics of building alliances in the backroom relevant in the face of a predatory BJP?",
-    "url": "https://indianexpress.com/article/political-pulse/baramati-pawar-vs-pawar-maharashtra-lok-sabha-polls-9242667/",
-    "urlToImage": "https://images.indianexpress.com/2024/03/Supriya-Sule-vs-Sunetra-Pawar.jpg",
-    "publishedAt": "2024-03-31T01:45:04Z",
-    "content": "Humare liye maha tension ho gayi hai (For us, it is a matter of great tension).This was a Baramati resident speaking with great feeling. For, the Lok Sabha battle for Baramati has become a high profi… [+5840 chars]"
+      "source": { "id": null, "name": "Tv9kannada.com" },
+      "author": "Shreelaxmi H",
+      "title": "‘ಅವರು ಭಾರತದ ಹೀರೋಗಳು’; ಹಾರ್ದಿಕ್​ನ ಟ್ರೋಲ್​ ಮಾಡಿದ್ದನ್ನು ಖಂಡಿಸಿದ ಸೋನು ಸೂದ್",
+      "description": "ಕ್ರೀಡಾ ಸ್ಫೂರ್ತಿ ಅನ್ನೋದು ತುಂಬಾನೇ ಮುಖ್ಯ. ಆಟಗಾರ ಹೇಗೆ ಆಡಿದರೂ ಅವರನ್ನು ಸ್ವೀಕರಿಸಿಬೇಕು. ಆದರೆ, ಪಾಂಡ್ಯ ವಿಚಾರದಲ್ಲಿ ಹಾಗಾಗುತ್ತಿಲ್ಲ. ಅವರು ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್​ಗೆ ಆಗಮಿಸಿ ರೋಹಿತ್ ಶರ್ಮಾ ಅವರ ಕ್ಯಾಪ್ಟನ್ಸಿಯನ್ನು ಕಿತ್ತುಕೊಂಡಿದ್ದಾರೆ ಎನ್ನುವ ಬೇಸರ ಅಭಿಮಾನಿಗಳಲ್ಲಿ ಇದೆ.",
+      "url": "https://tv9kannada.com/entertainment/bollywood/after-hardik-pandya-troll-sonu-sood-says-they-are-our-heroes-rmd-808488.html",
+      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2024/03/hardik-pandya-7.jpg",
+      "publishedAt": "2024-03-30T03:32:57Z",
+      "content": "(Mumbai Indians) . . , . , . . . . . . . . , . . . . . . . . . . , . , . . . . 15 . . .We should respect our players. Players who made us proud, players who made our country proud. One day you cheer … [+224 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Techbang.com"
-    },
-    "author": "KKJ",
-    "title": "蘋果公佈iOS 17.4.1更新細節，包含系統安全漏洞修復",
-    "description": "蘋果公司在一份說明網頁中解釋，這些更新修補了一個與圖像相關的安全漏洞，該漏洞可能導致駭客可以在你電腦上執行任意程式碼。先前蘋果Apple在發布iOS 17.4.的兩周後，又在上週發布了新版本iOS 17.4.1。更新的速度如此之快，對蘋果來說算是罕見。\n在當時，蘋果僅指出這個更新包括「重要錯誤修復和安全性更新」，其中一點是「修補系統安全漏洞」，但是在當時並沒有多加說明細節。現在，蘋果官網今天提供了上週針對 iPhone 和 iPad 的iOS 17.4.1 和 iPadOS 17.4.1 軟體更新中包含的安全修復…",
-    "url": "https://www.techbang.com/posts/114051-apple-announced-the-details-of-the-ios-1741-update-which",
-    "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/114051/original/8b33ab69473d3bb52e0ffab06e011684.jpg?1711438145",
-    "publishedAt": "2024-03-31T02:30:00Z",
-    "content": "AppleiOS 17.4.iOS 17.4.1\r\n iPhone iPad iOS 17.4.1 iPadOS 17.4.1 \r\nCoreMedia\r\niPhone XS iPad Pro 12.9 iPad Pro 10.5 iPad Pro 11 iPad Air iPad iPad mini \r\nWebRTC\r\niPhone XS iPad Pro 12.9 iPad Pro 10.5 … [+79 chars]"
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Sports Desk",
+      "title": "DC vs CSK Live Streaming, IPL 2024: When and where to watch Delhi Capitals vs Chennai Super Kings match live?",
+      "description": "IPL 2024 Live Streaming Details, DC vs CSK Match Today: The Indian Express gives all the live streaming details of the second game between Delhi Capitals and Chennai Super Kings on Sunday.",
+      "url": "https://indianexpress.com/article/sports/ipl/dc-vs-csk-live-streaming-ipl-2024-match-13-when-and-where-to-watch-9241247/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/MS-Dhoni-Ruturaj-and-Jadeja.jpg",
+      "publishedAt": "2024-03-30T03:13:16Z",
+      "content": "Delhi Capitals vs Chennai Super Kings Live Streaming, IPL 2024: Rishabh Pant-led Delhi Capitals will be face Ruturaj Gaikwad’s Chennai Super Kings in the second match of the double header at the Dr Y… [+1817 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Forbes"
-    },
-    "author": "Sandy Carter, Contributor, \n Sandy Carter, Contributor\n https://www.forbes.com/sites/sandycarter/",
-    "title": "Future March Madness: AI, Digital Identity & Meme Coins Transform Hoops",
-    "description": "A Five-Year Fast Break with AI In five years, AI will likely leap from the sidelines to the core of NCAA basketball. AI and Blockchain may change March Madness.",
-    "url": "https://www.forbes.com/sites/digital-assets/2024/03/30/future-march-madness-ai-digital-identity--meme-coins-transform-hoops/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6608a1f88dd162147add7e5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2024-03-31T02:13:59Z",
-    "content": "March Madness (Photo by Streeter Lecka/Getty Images)\r\nGetty Images\r\nSitting in the stands of Cameron Indoor, where the energy moves like nowhere else, my love for NCAA basketball, particularly the Du… [+10069 chars]"
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Bengal Police Uses Virat Kohli's Video To Raise Awareness About Helmets",
+      "description": "This innovative approach has proven to be a hit, with the relatable cricket theme making the road safety message more memorable.",
+      "url": "https://www.ndtv.com/offbeat/west-bengal-police-uses-virat-kohlis-video-to-raise-awareness-about-helmets-5337630",
+      "urlToImage": "https://c.ndtvimg.com/2024-03/c99dmitg_virat-kohli_625x300_30_March_24.jpeg?ver-20240316.08",
+      "publishedAt": "2024-03-30T02:52:16Z",
+      "content": "Virat Kohli smacked Mitchell Starc for a six.\r\nCity police across India are using the ongoing IPL fever to deliver important road safety messages through creative social media campaigns. Capitalising… [+1788 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Forbes"
-    },
-    "author": "Emily Price, Contributor, \n Emily Price, Contributor\n https://www.forbes.com/sites/emilyprice/",
-    "title": "A. Smith Bowman’s Latest Whiskey Release Is Available Only Via A Lottery: Here’s How To Enter",
-    "description": "Virginia’s oldest distillery, A. Smith Bowman, is releasing a new whiskey next month and if you want to try it you’ll need to sign up for the distillery’s lottery.",
-    "url": "https://www.forbes.com/sites/emilyprice/2024/03/30/a-smith-bowmans-latest-whiskey-release-is-available-only-via-a-lottery-heres-how-to-enter/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6608c054fae271a4753bf1a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2024-03-31T01:48:04Z",
-    "content": "Whiskey\r\ngetty\r\nVirginias oldest distillery, A. Smith Bowman, is releasing a new whiskey next month and if you want to try it youll need to sign up for the distillerys lottery.\r\nThis week the distill… [+2108 chars]"
+      "source": { "id": null, "name": "Khabarhub.com" },
+      "author": "Khabarhub",
+      "title": "Nepal looks to rebound in second T20 match against Ireland ‘A’",
+      "description": "KATHMANDU: After a disappointing loss to Ireland ‘A’ in the inaugural T20 encounter on Friday, Nepal ‘A’ is gearing up for redemption as they prepare to face off in their second match today. The much-anticipated showdown is set to kick off at 1 pm at Tribhuva…",
+      "url": "https://english.khabarhub.com/2024/30/348599/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/03/nepal-vs-ireland-a-1.jpg",
+      "publishedAt": "2024-03-30T01:55:28Z",
+      "content": "KATHMANDU: After a disappointing loss to Ireland ‘A’ in the inaugural T20 encounter on Friday, Nepal ‘A’ is gearing up for redemption as they prepare to face off in their second match today.\r\nThe muc… [+1664 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Biztoc.com"
-    },
-    "author": "finance.yahoo.com",
-    "title": "Can Shiba Inu Skyrocket to $0.01 by 2030?",
-    "description": "As of this writing, the overall cryptocurrency market carries a market cap of just under $2.7 trillion. That's up from about $800 billion at the start of 2023. And it's close to record territory of just shy of $3 trillion. There's no question that bullish fev…",
-    "url": "https://biztoc.com/x/d30ef92ac03d7f13",
-    "urlToImage": "https://c.biztoc.com/p/d30ef92ac03d7f13/s.webp",
-    "publishedAt": "2024-03-31T02:12:04Z",
-    "content": "As of this writing, the overall cryptocurrency market carries a market cap of just under $2.7 trillion. That's up from about $800 billion at the start of 2023. And it's close to record territory of j… [+288 chars]"
+      "source": { "id": null, "name": "The BMJ" },
+      "author": "Siddiqui, N. A., Khaliq, M. A., Pirzada, M. A., Rehman, Z., Shaikh, F., Riaz, A., Khan, S.",
+      "title": "Development and content validation of a financial and functional outcomes tool for diabetes-related foot disease in patients undergoing major lower limb amputation: a prospective observational study from Pakistan",
+      "description": "Objective To develop and content validate a questionnaire to assess the financial and functional impact of major lower limb amputation in patients with diabetes-related foot disease.\n\nDesign Prospective observational study.\n\nSetting This study was conducted a…",
+      "url": "https://bmjopen.bmj.com/content/14/3/e080853",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-03-30T00:22:47Z",
+      "content": "Introduction\r\nMajor lower limb amputation (MLLA) is a life-changing event for patients, as it has physical and psychological repercussions and imposes significant financial and functional challenges … [+12629 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Geekpark.net"
-    },
-    "author": null,
-    "title": "传华为去年人均分红55万；苹果或将推新Apple Watch；「雷军做相机」被网友顶上热搜",
-    "description": "余承东宣布智界 S7 开启大规模交付，消息称 4 月 8 日再度上市\n3 月 30 日消息，华为常务董事、智能汽车解决方案 BU 董事长余承东在微博发文称，智界 S7 开启大规模交付，大批新智界 S7 已经离开产线，正在发往交付给用户的路上。\n由华为、奇瑞联合打造智界 S7 车型于去年 11 月正式发布，提供智界 S7 Pro、智界 S7 Max、智界 S7 Max+、智界 S7 Max RS 四款车型，售价分别为 24.98 万、28.98 万、31.98 万、34.98 万。\n\n智界 S7 将于 4 月 8 …",
-    "url": "https://www.geekpark.net/news/333157",
-    "urlToImage": "https://imgslim.geekpark.net/uploads/image/file/1f/ff/1fff079698c989864e524744e0d0864f.jpg",
-    "publishedAt": "2024-03-31T00:51:46Z",
-    "content": "S7 4 8 \r\n3 30 BU S7 S7 \r\n S7 11 S7 Pro S7 Max S7 Max+ S7 Max RS 24.98 28.98 31.98 34.98 \r\nS7 4 8 S7 IT \r\n20.7 55 +\r\n2023 7042 870 \r\n 20.7 162 30 30% 30-50 68% 49% 39% \r\n 186 \r\n 14 770 54.2 \r\n 600 \r\n … [+295 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TNN",
+      "title": "Jain Irrigation win ‘A’ Division title",
+      "description": "Mumbai: Jain Irrigation Systems Limited won the ‘A’ Div Times Cricket Shield title when it beat the Mumbai Customs SC on the first innings lead basis .",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/jain-irrigation-win-a-division-title/articleshow/108886409.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108886408,width-1070,height-580,imgsize-57498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-29T22:50:49Z",
+      "content": "10 classic baby names that are making a comeback"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Tinhte.vn"
-    },
-    "author": "no-reply@tinhte.vn (Didu), Didu",
-    "title": "Nếu bạn chưa biết: Apple từng phải trả tiền để dùng tên iPad, iPhone",
-    "description": "iPad hay iPhone là những tên gọi đã quá phổ biến nhưng trong quá khứ, Apple từng phải đấu tranh, đàm phán hay thậm chí là trả tiền để sử dụng. Apple từng thích đặt tên sản phẩm với việc bắt đầu bằng chữ ‘i’ và sau đó là những cái tên rất cơ bản và…",
-    "url": "https://tinhte.vn/thread/neu-ban-chua-biet-apple-tung-phai-tra-tien-de-dung-ten-ipad-iphone.3774240/",
-    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/03/8296684_Fujitsu-iPAD-e1679850167224.jpg",
-    "publishedAt": "2024-03-31T00:10:43Z",
-    "content": "iPad hay iPhone là nhng tên gi ã quá ph bin nhng trong quá kh, Apple tng phi u tranh, àm phán hay thm chí là tr tin s dng. Apple tng thích t tên sn phm vi vic bt u bng ch i và sau ó là nhng cái tên r… [+884 chars]"
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Tinhte.vn"
-    },
-    "author": "no-reply@tinhte.vn (P.W), P.W",
-    "title": "Ủy ban châu Âu: Có thể cả Apple, Google lẫn Meta đều đang tuân thủ luật mới theo kiểu chống đối",
-    "description": "Chưa đầy 3 tuần kể từ khi đạo luật thị trường số DMA bắt đầu có hiệu lực ở thị trường châu Âu từ 7/3 vừa rồi, ủy ban châu Âu đã phải công bố cuộc điều tra ba trong số 6 tập đoàn đang nắm giữ những hệ sinh thái thiết bị và ứng dụng công nghệ lớn…",
-    "url": "https://tinhte.vn/thread/uy-ban-chau-au-co-the-ca-apple-google-lan-meta-deu-dang-tuan-thu-luat-moi-theo-kieu-chong-doi.3774309/",
-    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/03/8297232_P050763-708419-scaled.webp",
-    "publishedAt": "2024-03-31T01:37:23Z",
-    "content": "Th nht, Apple thit k màn hình la chn trình duyt mc nh không bao gm tt c nhng la chn kh d cho ngi dùng, nói cách khác là ngn chn ngi dùng có nhng la chn vi y thông tin rõ ràng nu h mun thay i trình du… [+3046 chars]"
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Worcestershire sign ex-West Indies skipper Holder",
+      "description": "Worcestershire sign former West Indies skipper Jason Holder for the opening five County Championship matches.",
+      "url": "https://www.bbc.co.uk/sport/cricket/68696052",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/16C50/production/_133046239_gettyimages-1291097886.jpg",
+      "publishedAt": "2024-03-29T20:55:31Z",
+      "content": "Jason Holder was the youngest ever West Indies captain when he took over in 2015 at the age of 23\r\nPromoted Worcestershire have signed ex-West Indies skipper Jason Holder for the opening five County … [+2631 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Taisy0.com"
-    },
-    "author": "taisy0",
-    "title": "Windows向けの｢Appleデバイス｣アプリ、将来的にWi-Fi同期に対応か",
-    "description": "Appleは先月よりWindows向けに「Apple デバイス」アプリを提供しており、同アプリではWindowsとAppleデバイスの同期やバックアップ、コンテンツの転送などが出来ますが、近い将来にWi-Fiを利用した同期が可能になるかもし",
-    "url": "https://taisy0.com/2024/03/31/196620.html",
-    "urlToImage": "https://taisy0.com/wp-content/uploads/2024/03/appledeviceappwin.jpg",
-    "publishedAt": "2024-03-31T00:49:01Z",
-    "content": "Apple has released an update to their \"Apple Devices\" app for Windows. According to the code, it seems like they may have added Wifi Syncing with this update! pic.twitter.com/Lr8PtuHtPo\r\n— Aaron (@aa… [+22 chars]"
+      "source": { "id": null, "name": "Santa Barbara Independent" },
+      "author": "Indy Staff",
+      "title": "Santa Barbara's Collective Memory, Sold for Kindling",
+      "description": "The digital archive of the 'Santa Barbara News-Press' is poised for sale to a murky foreign firm likely to destroy it for data to feed online search algorithms. Will we step up to save our history?",
+      "url": "https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/",
+      "urlToImage": "https://www.independent.com/wp-content/uploads/2023/08/1988-073_SBNP_Building_exterior.jpg",
+      "publishedAt": "2024-03-29T20:25:55Z",
+      "content": "History rarely feels like history when youre living through it. But if you have spent even a day in Santa Barbara anytime since 1868, you have played a part in a continuous community story catalogued… [+10935 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Taisy0.com"
-    },
-    "author": "taisy0",
-    "title": "Apple、従業員向けにApple Watch用バンド｢リンクブレスレット｣と｢ミラネーゼループ｣を大幅値引きで提供 ｰ 廃止に向けた在庫処分なのかは不明",
-    "description": "MacRumorsによると、Appleが従業員を対象にApple Watch用バンドの「リンクブレスレット」と「ミラネーゼループ」を40％オフの特価で販売していることが分かりました。 「リンクブレスレット」は通常349ドルが209ドルで販売",
-    "url": "https://taisy0.com/2024/03/31/196625.html",
-    "urlToImage": "https://taisy0.com/wp-content/uploads/2024/03/bandlinkbracelet.jpg",
-    "publishedAt": "2024-03-31T01:18:40Z",
-    "content": "MacRumorsAppleApple Watch40\r\n34920999592015Apple Watch\r\n50\r\nApple Watch"
+      "source": { "id": null, "name": "FRANCE 24 English" },
+      "author": "FRANCE24",
+      "title": "England's Ahmed unconcerned over prospect of home Test debut",
+      "description": "The now 19-year-old Leicestershire bowler became England's youngest men's Test cricketer in 2022 when he took five wickets on debut against Pakistan in Karachi.\n\nBut with England rarely selecting more than one specialist spinner in home conditions, Ahmed had …",
+      "url": "https://www.france24.com/en/live-news/20240329-england-s-ahmed-unconcerned-over-prospect-of-home-test-debut",
+      "urlToImage": "https://s.france24.com/media/display/dc6046fa-edfd-11ee-8249-005056a97e36/w:1280/p:16x9/23472e46f4c5f5f0c4d4f857cd8bd1db8b14dbc7.jpg",
+      "publishedAt": "2024-03-29T18:55:08Z",
+      "content": "London (AFP) Teenage leg-spinner Rehan Ahmed has no intention of putting himself under extra pressure to make a home Test debut after continuing his fledgling England career with a promising return d… [+2119 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Hvg.hu"
-    },
-    "author": "hvg@hvg.hu",
-    "title": "Elvitelre #60: Amiről Vlagyimir Putyin és Rákay Philip hallgat",
-    "description": "Elvitelre - a podcast, amelyben az adott hét legjobb HVG hetilapos és hvg360-as anyagaiból válogatunk. Csak indítsa el a háttérben és hallgassa meg szerzőink legjobb írásait! Ezen a héten a moszkvai terrortámadás hátterét és a Rákay-féle Petőfi-film történelm…",
-    "url": "https://hvg.hu/elet/20240331_elvitelre-podcast-vlagyimir-putyin-rakay-philip-petofi-film",
-    "urlToImage": "https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/90c77deb-c358-4f7d-a2ae-af7c4bf49c39.jpg",
-    "publishedAt": "2024-03-31T04:00:00Z",
-    "content": "Újra itt az Elvitelre, a hvg.hu hétzáró podcastja, amelyben az elmúlt hét legjobb HVG-s és hvg360-as anyagaiból válogatunk – önnek csak el kell indítania a háttérben.\r\nA legfrissebb epizódban azt néz… [+454 chars]"
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Express News Service",
+      "title": "RCB vs KKR Greasy palms come to Shreyas Iyer’s rescue; Virat Kohli exhibits his wrist power; Phil Salt comes up with an unusual cut shot",
+      "description": "Emotional Rollercoaster: Kolkata Knight Riders defeat Royal Challengers Bengaluru by 7 wickets.",
+      "url": "https://indianexpress.com/article/sports/ipl/rcb-vs-kkr-shreyas-iyer-virat-kohli-sunil-narine-ipl-2024-emotional-rollercoaster-9240979/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/KKR-RCB.jpg",
+      "publishedAt": "2024-03-29T18:49:45Z",
+      "content": "Greasy palms, theme of the day\r\nShreyas Iyer kicked the turf in angst. He had just miscued a pull shot to Yash Dayal. Then he turned to his left, and to his delight, saw the left-arm seamer shelling … [+4622 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "[Removed]"
-    },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "1970-01-01T00:00:00Z",
-    "content": "[Removed]"
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Yahoo Entertainment"
-    },
-    "author": null,
-    "title": "Will Artificial Intelligence (AI) Allow Nvidia to Crush Apple and Microsoft, and Become the Most Valuable \"Magnificent Seven\" Stock?",
-    "description": null,
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56179cc8-0b8a-49f5-aa4b-8d9734f88175",
-    "urlToImage": null,
-    "publishedAt": "2024-03-31T01:14:00Z",
-    "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Nathan Johns",
+      "title": "Cricket Ireland defend purchasing of two Teslas amid financial pressure",
+      "description": "Governing body says hire purchase agreement is financially prudent and ‘financially advantageous’",
+      "url": "https://www.irishtimes.com/sport/2024/03/29/cricket-ireland-defend-purchasing-of-two-teslas-amid-financial-pressure/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v3L0lHf4-tYENZsiI7gpkS5emCk=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/XUHW3ZSYN5E2PJBCSMX3TSJ5LY.jpg",
+      "publishedAt": "2024-03-29T18:31:12Z",
+      "content": "Cricket Ireland have said that the recent purchase of a pair of Teslas for senior members of staff was done so in financial prudence and in the interests of leaving Cricket Ireland in a more financia… [+1264 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "Apple 苹果 iPhone 15 Pro 5G手机 128GB 蓝色钛金属 6792.01元（需用券）",
-    "description": "Apple 苹果 iPhone 15 Pro 5G手机 128GB 蓝色钛金属 6792.01元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
-    "url": "https://www.smzdm.com/p/108267366/",
-    "urlToImage": "https://qny.smzdm.com/202309/13/6500b101c43396167.png_d250.jpg",
-    "publishedAt": "2024-03-31T02:05:10Z",
-    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Nathan Johns",
+      "title": "Cricket Ireland defend purchase of two Teslas amid financial pressure",
+      "description": "Governing body says hire purchase agreement is financially prudent and ‘financially advantageous’",
+      "url": "https://www.irishtimes.com/sport/2024/03/29/cricket-ireland-defend-purchase-of-two-teslas-amid-financial-pressure/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v3L0lHf4-tYENZsiI7gpkS5emCk=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/XUHW3ZSYN5E2PJBCSMX3TSJ5LY.jpg",
+      "publishedAt": "2024-03-29T18:31:12Z",
+      "content": "Cricket Ireland have said that the recent purchase of a pair of Teslas for senior members of staff was done so in financial prudence and in the interests of leaving Cricket Ireland in a more financia… [+1264 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "Apple 苹果 iPhone 15 Pro 5G手机 256GB 蓝色钛金属 7779元（需用券）",
-    "description": "Apple 苹果 iPhone 15 Pro 5G手机 256GB 蓝色钛金属 7779元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
-    "url": "https://www.smzdm.com/p/108276123/",
-    "urlToImage": "https://qny.smzdm.com/202309/13/6500b101c43396167.png_d250.jpg",
-    "publishedAt": "2024-03-31T04:23:08Z",
-    "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Pratyush Raj",
+      "title": "Narine shows why he is still a precious commodity in the IPL",
+      "description": "The Trinidadian celebrated his 500th T20 appearance with the wicket of Maxwell and a 22-ball 47",
+      "url": "https://indianexpress.com/article/sports/ipl/rcb-vs-kkr-sunil-narine-venkatesh-iyer-ipl-2024-bengaluru-9240959/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/narine.jpg",
+      "publishedAt": "2024-03-29T18:19:53Z",
+      "content": "Synopsis: Narines fireworks, in his 500th T20 appearance, topple Kohlis masterclass, despite hoddy catching and expensive Starc A few hours before the match, Kolkata Knight Riders (KKR) mentor Gautam… [+4914 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "百亿补贴：Apple 苹果 Watch Series 9 智能手表 GPS款 2237元",
-    "description": "拼多多此款目前活动售价2237元，近期好价。",
-    "url": "https://www.smzdm.com/p/108265050/",
-    "urlToImage": "https://y.zdmimg.com/202309/13/6500bbefc734d2300.png_d250.jpg",
-    "publishedAt": "2024-03-31T01:23:59Z",
-    "content": "Apple Watch Series 9 Apple S9 56Series 8 60%GPU30%siriAppleiPhone\r\nApple Watch Series 9200013256G\r\nApple Watch Series 9 3618"
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Smzdm.com"
-    },
-    "author": null,
-    "title": "百亿补贴：Apple 苹果 AirPods 3 半入耳无线蓝牙耳机 Lighting接口 1089元（需用券）",
-    "description": "拼多多此款目前活动售价1089元，近期好价。",
-    "url": "https://www.smzdm.com/p/108274901/",
-    "urlToImage": "https://qny.smzdm.com/202110/19/616dbedada8518907.jpg_d250.jpg",
-    "publishedAt": "2024-03-31T03:25:42Z",
-    "content": "AirPods 3D AirPods Apple Apple Music \r\n AirPods  IPX4 Apple H1 AirPods \r\n 6 4 5 AirPods 1 4 30 MagSafe"
+      "source": { "id": null, "name": "New Zealand Herald" },
+      "author": "Alex Powell",
+      "title": "Cricket: Former Black Caps Corey Anderson completes international allegiance switch, selected for USA",
+      "description": "Corey Anderson, 33, hasn’t played for New Zealand since 2018.",
+      "url": "https://www.nzherald.co.nz/sport/cricket/cricket-former-black-cap-corey-anderson-completes-international-allegiance-switch-selected-for-usa/YZFOUIBYMVB2ZBEMXKNEAD2EQI/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QIYJQCG73RBMLOSQGGHLSJHYOM.JPG?auth=d1922342296e2c8304a767a43fa7140bcd7604d61c0581e011a2808d7e185cc1&width=1200&height=675&quality=70&focal=1371%2C904&smart=false",
+      "publishedAt": "2024-03-29T18:00:00Z",
+      "content": "Former Black Caps all-rounder Corey Anderson has all but completed his international allegiance switch, and can represent the USA after being named to face Canada next month.\r\nAnderson, 33, hasnt pla… [+2074 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "CinemaBlend"
-    },
-    "author": "Tom Wardley",
-    "title": "How To Watch This Town Online And Stream Peaky Blinders' Steven Knight New Drama Free From Anywhere",
-    "description": "The BBC's new thriller explores the ska scene emerging from the unrest of the 1980s Midlands. This guide explains how to watch This Town online for free from anywhere in the world.",
-    "url": "https://www.cinemablend.com/streaming-news/watch-this-town",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/RY34xJ9224YZdu6hrg5aDg-1200-80.jpg",
-    "publishedAt": "2024-03-31T03:00:21Z",
-    "content": "How To Watch This Town Online\r\nWatch This Town: Synopsis\r\nBilled as a “both a high octane thriller and family saga”, This Town tells the story of four young people growing up in the Midlands in the e… [+5660 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET Online",
+      "title": "Viral video: Rohit Sharma fans jeer Hardik Pandya during IPL match. Mumbai Indian skipper then did this",
+      "description": "Hardik Pandya faces challenges as Mumbai Indians captain in IPL 2024, dealing with fan discontent, tense exchanges with team owner, and advice from Steve Smith to ignore jeers amidst the ongoing cricket season.",
+      "url": "https://economictimes.indiatimes.com/news/sports/viral-video-rohit-sharma-fans-jeer-hardik-pandya-during-ipl-match-mumbai-indian-skipper-then-did-this/articleshow/108883599.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108883748,width-1200,height-630,imgsize-44714,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-29T17:23:32Z",
+      "content": "Hardik Pandya is having a tough time in this year's Indian Premier League (IPL). The Mumbai Indians' start in IPL 2024 has been quite disappointing, but more than that, it is the constant taunts Pand… [+2656 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Pausaparafeminices.com"
-    },
-    "author": "Bruna Tavares",
-    "title": "Best Gambling mr bet casino cash back establishment Web sites United kingdom",
-    "description": "Content Ideas on how to Create A software To gain access to Real cash Mobile Harbors? Finding the optimum No deposit Gambling establishment Application To you personally What is the Highest Amount You could potentially Wager on? But not, to the easy depositin…",
-    "url": "https://www.pausaparafeminices.com/ppf/best-gambling-mr-bet-casino-cash-back-establishment-web-sites-united-kingdom/",
-    "urlToImage": null,
-    "publishedAt": "2024-03-31T01:58:14Z",
-    "content": "But not, to the easy depositing through this approach, of several participants like the capability of spending by mobile when deposit on their gambling enterprise account. Although this creates suspi… [+6154 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Glynda Alves",
+      "title": "A touch of onyx can bequeath a timeless quality to your home",
+      "description": "​A rare type of marble, with a rich texture, unique coloured finish and veined patterns, its pink version has been used in a powder room of Virat Kohli’s Alibaug holiday home, giving the space a delicate but detailed look.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/a-touch-of-onyx-can-bequeath-a-timeless-quality-to-your-home/articleshow/108883413.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108883571,width-1200,height-630,imgsize-9090,overlay-etpanache/photo.jpg",
+      "publishedAt": "2024-03-29T17:10:13Z",
+      "content": "A New York-based interior stylist once made an observation about Hollywood star Gwyneth Paltrows living room. She has the most beautiful onyx bar floating in the middle of her living room, Colin King… [+4640 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Ferra.ru"
-    },
-    "author": "Максим Многословный",
-    "title": "Даже Apple хочет, чтобы вы попали в IT: появился ресурс по изучению языка Swift",
-    "description": "Приветствуем всех начинающих разработчиков приложений, для вас Apple запустила новый ресурс, который поможет освоить программирование на Swift.",
-    "url": "https://www.ferra.ru/news/apps/dazhe-apple-khochet-chtoby-vy-popali-v-it-poyavilsya-resurs-po-izucheniyu-yazyka-swift-30-03-2024.htm",
-    "urlToImage": "https://www.ferra.ru/imgs/2024/03/30/13/6415768/4a23ae359fc91574e4a619f9be2997bf865d4327.jpeg",
-    "publishedAt": "2024-03-31T00:00:05Z",
-    "content": "-   «Develop in Swift Tutorials» ,       . Apple ,   .\r\n«    ,     Swift  SwiftUI»,  , Apple. «   ,   ,  ».\r\n - ,   Xcode, Apple .  ,   .\r\n , ,     , Apple Watch  watchOS."
+      "source": { "id": null, "name": "New Zealand Herald" },
+      "author": "Jane Phare",
+      "title": "Going for gold: Why businesses should hire former sports stars",
+      "description": "A unique set of skills learned by elite sports people transfers well into business life.",
+      "url": "https://www.nzherald.co.nz/business/going-for-gold-why-businesses-should-hire-former-sports-stars/Z2ZA3XZX4NG3NPI2PX5ENB4NMY/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/EEL6KJQDLNC37PG5WXTOOMBJNM.jpg?auth=75a17fe186486cf24972eadef48b8dd0f7660dffec5ea2c5b08ad7cbf4a4a7df&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-03-29T16:00:00Z",
+      "content": "A clothing line, shoes, a skincare range, property development, owning a supermarket. Jane Phare looks at what elite sports stars do after their competitive careers are over and why businesses should… [+14256 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "International Business Times"
-    },
-    "author": "Anne CHAON",
-    "title": "Istanbul Top Prize As Turkey Votes In Local Polls",
-    "description": "Turkey holds municipal elections across the country on Sunday, with all eyes on Istanbul, the national \"jewel\" that President Recep Tayyip Erdogan hopes to pry away from the opposition.",
-    "url": "https://www.ibtimes.com/istanbul-top-prize-turkey-votes-local-polls-3728549",
-    "urlToImage": "https://d.ibtimes.com/en/full/4519569/istanbul-shown-here-october-2020-considered-top-electoral-prize-turkey.jpg",
-    "publishedAt": "2024-03-31T01:27:07Z",
-    "content": "Turkey holds municipal elections across the country on Sunday, with all eyes on Istanbul, the national \"jewel\" that President Recep Tayyip Erdogan hopes to pry away from the opposition.\r\nErdogan's ro… [+3726 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TOI Sports Desk",
+      "title": "Watch: Gautam Gambhir and Virat Kohli leave past behind, hug each other during strategic timeout",
+      "description": "All eyes were on Virat Kohli and Gautam Gambhir leading up to the Royal Challengers Bangalore versus Kolkata Knight Riders match, and the spotlight remains firmly on both players.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/watch-gautam-gambhir-and-virat-kohli-leave-past-behind-hug-each-other-during-strategic-timeout/articleshow/108882636.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108882611,width-1070,height-580,imgsize-43150,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-29T15:58:23Z",
+      "content": "The TOI Sports Desk excels in a myriad of roles that capture the essence of live sporting events and deliver compelling content to readers worldwide. From running live blogs for India and non-India c… [+908 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Soydemac.com"
-    },
-    "author": "Andy Acosta",
-    "title": "Apple renuncia al proyecto de tener su propio coche",
-    "description": "Después de casi una década y muchos obstáculos, Apple renuncia al proyecto de tener su propio coche para enfocarase en la IA",
-    "url": "https://www.soydemac.com/apple-renuncia-al-proyecto-de-tener-su-propio-coche/",
-    "urlToImage": "https://www.soydemac.com/wp-content/uploads/2024/03/project-titan-everything-we-know-about-apple-s-secret-icar-efforts_6-e1711829946360.jpg",
-    "publishedAt": "2024-03-31T01:13:35Z",
-    "content": "Es muy común que las empresas dedicadas a la tecnología dediquen su tiempo en la producción de nuevos productos que involucren otras áreas. En particular, Apple ha expandido su universo de iPhones a … [+6161 chars]"
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Zee Reduces Staff By About Half At Bengaluru's Tech And Innovation Centre",
+      "description": "Zee Entertainment on Friday said it has reduced the workforce at its Technology & Innovation Centre in Bengaluru by about half, following recommendations by a company-formed review panel to cut costs.",
+      "url": "https://www.ndtv.com/india-news/zee-reduces-staff-by-about-half-at-bengalurus-tech-and-innovation-centre-5335390",
+      "urlToImage": "https://c.ndtvimg.com/2024-03/lrk9ls88_zee-reuters_625x300_01_March_24.jpeg",
+      "publishedAt": "2024-03-29T15:56:03Z",
+      "content": "Zee is locked in legal battles over the failed Sony and cricket deals (Representational)\r\nBengaluru: Zee Entertainment on Friday said it has reduced the workforce at its Technology &amp; Innovation C… [+1060 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Xataka.com.mx"
-    },
-    "author": "MartinPixel",
-    "title": "“Me presenté como un idiota y me dieron papeles de idiotas”: Chris Evans no tiene interés en ser una estrella de cine y prefiere admirar arboles",
-    "description": "Chris Evans es reconocido en el cine por su papel del Capitán América de Marvel, sin contar con un historial de películas reconocidas por la prensa especializada. Durante una entrevista con GQ, el actor reconoció que no tiene problemas en admitir que sus inic…",
-    "url": "https://www.xataka.com.mx/cine-y-tv/me-presente-como-idiota-me-dieron-papeles-idiotas-chris-evans-no-tiene-interes-ser-gran-estrella-cine-prefiere-mirar-arboles",
-    "urlToImage": "https://i.blogs.es/db9fc2/chris-evans/840_560.jpeg",
-    "publishedAt": "2024-03-31T01:30:49Z",
-    "content": "Chris Evans es reconocido en el cine por su papel del Capitán América de Marvel, sin contar con un historial de películas reconocidas por la prensa especializada. Durante una entrevista con GQ, el ac… [+2259 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET Online",
+      "title": "Zee cuts staff by about half at Bengaluru's Technology & Innovation Centre to reduce costs",
+      "description": "Zee Entertainment has halved its workforce at its Bengaluru Technology and Innovation Centre as part of cost-cutting measures recommended by a company-formed review panel. The decision, approved by MD and CEO Punit Goenka, follows suggestions from the committ…",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/zee-cuts-staff-by-about-half-at-bengalurus-technology-innovation-centre/articleshow/108882390.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108882426,width-1200,height-630,imgsize-56166,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-29T15:40:47Z",
+      "content": "Zee Entertainment on Friday said that it has reduced the workforce at its Technology and Innovation Centre in Bengaluru by about half, after recommendations by a company-formed review panel to cut co… [+1026 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Gagadget.com"
-    },
-    "author": "gagadget.com",
-    "title": "Apple предлагает большие скидки на некоторые ремешки Apple Watch для своих сотрудников",
-    "description": "Apple предлагает большие скидки на некоторые ремешки, ставшие недоступными перед ожидаемым выпуском модели Series 9.",
-    "url": "https://gagadget.com/ru/428022-apple-predlagaet-bolshie-skidki-na-nekotoryie-remeshki-apple-watch-dlya-svoih-sotrudnikov/",
-    "urlToImage": "https://gagadget.com/media/cache/cd/7b/cd7b86f3a414e40fda28b4ecc1cbc3bb.jpg",
-    "publishedAt": "2024-03-31T01:27:29Z",
-    "content": "Apple , Series 9.\r\nApple Watch. Link 209 ( 349 ), , Milanese Loop 59 ( 99 ).\r\n MacRumors, Apple , Apple Watch.\r\n , 50% Black Unity Pride Edition .\r\n \"Apple Watch X\", , . Apple , . , , Apple Watch X 2… [+23 chars]"
+      "source": { "id": null, "name": "Marketscreener.com" },
+      "author": null,
+      "title": "India's Zee cuts staff by about half at Bengaluru's Technology & Innovation Centre",
+      "description": "(marketscreener.com) India's Zee Entertainment on Friday said it has reduced the workforce at its Technology & Innovation Centre in Bengaluru by about half, following recommendations by a company-formed review panel to cut costs. The decision was made by the …",
+      "url": "https://www.marketscreener.com/quote/stock/WALT-DISNEY-COMPANY-THE-4842/news/India-s-Zee-cuts-staff-by-about-half-at-Bengaluru-s-Technology-Innovation-Centre-46320338/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2023-02/2023-02-24T103051Z_1_LYNXMPEJ1N0DN_RTROPTP_3_ZEE-ENTERTAINMENT-BANKRUPTCY-INDIA.JPG",
+      "publishedAt": "2024-03-29T15:32:00Z",
+      "content": "March 29, 2024 at 11:32 am EDT\r\nBENGALURU (Reuters) - India's Zee Entertainment on Friday said it has reduced the workforce at its Technology &amp; Innovation Centre in Bengaluru by about half, follo… [+988 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Gagadget.com"
-    },
-    "author": "gagadget.com",
-    "title": "Apple запускает ресурс для начинающих программистов в программировании на Swift",
-    "description": "С приближением конференции WWDC 2024, Apple внедряет новый ресурс для начинающих программистов.",
-    "url": "https://gagadget.com/ru/428034-apple-zapuskaet-resurs-dlya-nachinayuschih-programmistov-v-programmirovanii-na-swift/",
-    "urlToImage": "https://gagadget.com/media/cache/27/ea/27ea1feb3eae2d55067e470c191e7efc.jpg",
-    "publishedAt": "2024-03-31T01:36:37Z",
-    "content": "WWDC 2024, Apple .\r\n- \"Develop in Swift Tutorials\" , Xcode, Swift SwiftUI.\r\n , , , Xcode Swift. \r\n , , . Xcode, , . Apple , .\r\n- , Xcode, , , visionOS.\r\n\"Develop in Swift Tutorials\" Apple , .\r\n:9to5M… [+1 chars]"
+      "source": { "id": null, "name": "Reactormag.com" },
+      "author": "Emmet Asher-Perrin",
+      "title": "Terry Pratchett Book Club: Nation, Part IV",
+      "description": "Even alternate history can’t stop this man from creating something kinder than what we’ve got. Summary The raiders arrive before dawn, and Mau has the alarm rung and brings his plan to fruition. Cox is in charge of the Raiders now as they feared, but it seems…",
+      "url": "https://reactormag.com/terry-pratchett-book-club-nation-part-iv/",
+      "urlToImage": "https://reactormag.com/wp-content/uploads/2024/02/Pratchett-Book-Club-Nation.png",
+      "publishedAt": "2024-03-29T15:00:00Z",
+      "content": "Even alternate history cant stop this man from creating something kinder than what weve got.\r\nThe raiders arrive before dawn, and Mau has the alarm rung and brings his plan to fruition. Cox is in cha… [+9872 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Gagadget.com"
-    },
-    "author": "gagadget.com",
-    "title": "Новый iPad mini 7: Улучшения дисплея, производительности и другие обновления",
-    "description": "По слухам, новое поколение iPad mini может иметь несколько значительных обновлений.",
-    "url": "https://gagadget.com/ru/428010-novyij-ipad-mini-7-uluchsheniya-displeya-proizvoditelnosti-i-drugie-obnovleniya/",
-    "urlToImage": "https://gagadget.com/media/cache/4f/04/4f04ad6d7c864a1825e4bce41ac95ba5.jpg",
-    "publishedAt": "2024-03-31T01:17:42Z",
-    "content": ", iPad mini .\r\n, , . Apple , .\r\n , A16 Bionic, . , Wi-Fi 6E Bluetooth 5.3.\r\n iPad mini 7 , . , .\r\n, Apple OLED- iPad mini, .\r\n: 9to5Mac"
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Vishal Dikshit",
+      "title": "LSG bank on home advantage to get their campaign off the ground",
+      "description": "LSG coach Justin Langer has said it may take a little more time before Shamar Joseph is unleashed on the IPL",
+      "url": "https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/lucknow-super-giants-vs-punjab-kings-11th-match-1422129/match-preview",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/359000/359011.6.jpg",
+      "publishedAt": "2024-03-29T14:49:44Z",
+      "content": "PreviewLSG coach Justin Langer has said it may take a little more time before Shamar Joseph is unleashed on the IPL\r\nKL Rahul's powerplay approach could come under the microscope again  •  AFP/Getty … [+5349 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Www.is.fi"
-    },
-    "author": "Nico Hartikainen",
-    "title": "8-vuotias lapsi klikkaili aamu­toimien yhteydessä 435 euron laskun – Applen vastaus yllätti Arin",
-    "description": "Perheenisä ei syytä tai pidä Applea vastuussa tapahtuneesta, mutta ihmettelee yhtiön käytäntöjä.",
-    "url": "https://www.is.fi/digitoday/esports/art-2000010323495.html",
-    "urlToImage": "https://is.mediadelivery.fi/img/some/default/88a649e4b786b3056b07a80647e4e864.jpg",
-    "publishedAt": "2024-03-31T04:15:00Z",
-    "content": "Perheenisä ei syytä tai pidä Applea vastuussa tapahtuneesta, mutta ihmettelee yhtiön käytäntöjä.\r\nJuttu on julkaistu alun perin 9.2.2024.\r\nPian nelikymppinen perheenisä Ari hämmästyi eräs aamu töissä… [+7187 chars]"
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Action Network",
+      "title": "What does “Draw No Bet” mean in sports betting?",
+      "description": "Check out this comprehensive guide to learn all about what \"draw no bet\" means in sports betting.",
+      "url": "https://nypost.com/sports/draw-no-bet/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/terry-antonis-melbourne-city-celebrates-78259161-e1711723266942.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-03-29T14:44:11Z",
+      "content": "Commercial Content. 21+. Action Network is the official betting partner of the New York Post, which edits this content.\r\nMost of us are familiar with the moneyline bet. Requiring you to pick the winn… [+11289 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Arigato-ipod.com"
-    },
-    "author": "Ygn",
-    "title": "【編集後記】Apple Storeの「新学期を始めよう」キャンペーンが終了間近。ビジュアルが急いでいる絵に変わった",
-    "description": "学生・学校関係者を対象とした、Appleの「新学期を始めよう」キャンペーンが、4月10日（水）で終了になります。 期間中に対象のMac、iPadを学割価格で購入すると、Apple Gift Cardがもらえます。 2月に...\nThe post 【編集後記】Apple Storeの「新学期を始めよう」キャンペーンが終了間近。ビジュアルが急いでいる絵に変わった first appeared on アイアリ.",
-    "url": "https://arigato-ipod.com/2024/03/column-24-03-31.html",
-    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2024/03/240331backtoschool.jpg",
-    "publishedAt": "2024-03-31T02:43:16Z",
-    "content": "学生・学校関係者を対象とした、Appleの「新学期を始めよう」キャンペーンが、4月10日（水）で終了になります。\n期間中に対象のMac、iPadを学割価格で購入すると、Apple Gift Cardがもらえます。\n\n\n2月にスタートしたキャンペーンです。\n3月にリリースされた、新しいM3チップを搭載した13インチ/15インチMacBook Airも、今回は対象になっています。\n発売されたばかりの… [+568 chars]"
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Action Network",
+      "title": "What does “Draw No Bet” mean in sports betting?",
+      "description": "Check out this comprehensive guide to learn all about what \"draw no bet\" means in sports betting.",
+      "url": "https://nypost.com/2024/03/29/sports/draw-no-bet/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/terry-antonis-melbourne-city-celebrates-78259161-e1711723266942.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-03-29T14:44:11Z",
+      "content": "Commercial Content. 21+. Action Network is the official betting partner of the New York Post, which edits this content.\r\nMost of us are familiar with the moneyline bet. Requiring you to pick the winn… [+11289 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Droidsans.com"
-    },
-    "author": "Waiwy4.0",
-    "title": "รวม 5 ปัญหายอดฮิตในมือถือ จอเส้น จอเขียว ฝุ่นในกล้อง กล้องขึ้นฝ้า เครื่องร้อน ประกอบไม่ดี พร้อมวิธีรับมือ",
-    "description": "สมาร์ทโฟนรุ่นใหม่เดี๋ยวนี้พัฒนาเทคโนโลยีมาไกลแล้ว แต่ก็ไม่พ้นปัญหาหรือ Defect ต่าง ๆ ที่ตามมากับเครื่อง ไม่ว่าจะเป็นมือถือราคาเริ่มต้นหรือแพงเกือบครึ่งแสน ต่างก็มีประวัติด้านนี้ไม่แพ้กัน เราขอรวบรวมปัญหาในมือถือยอดฮิตที่เคยเจอมา เพื่อให้เพื่อน ๆ ได้รู้จักและเ…",
-    "url": "https://droidsans.com/5-smartphone-defect-problem-and-fix/",
-    "urlToImage": "https://images.droidsans.com/wp-content/uploads/2024/03/Droidsans-IT-Gadgets-News-11.jpg",
-    "publishedAt": "2024-03-31T01:27:00Z",
-    "content": "I can confirm the iPhone 15 Pro Max A7 Pro throttling is bad. Apple needs to cool this chipset properly, just 2 minutes is all it took to lose almost 25% performance to drop to almost 34% after 20 mi… [+151 chars]"
+      "source": { "id": null, "name": "Rogerebert.com" },
+      "author": "Clint Worthington",
+      "title": "Lousy Carter",
+      "description": "Lousy Carter, at its best, feels like a cruel joke on its own protagonist, the kind of guy so convinced of his own genius he doesn’t want to mess it up by actually putting himself out there.",
+      "url": "https://www.rogerebert.com/reviews/lousy-carter-movie-review-2024",
+      "urlToImage": "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/lousy-carter-movie-review-2024/homepage_lousy-carter-1.jpg",
+      "publishedAt": "2024-03-29T14:02:13Z",
+      "content": "Austin-based filmmaker Bob Byington never takes the easy road, even when he’s telling the stories about the same middle-aged sadsacks who’ve populated every indie dramedy under the sun. They’re mumbl… [+4349 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Ferra.ru"
-    },
-    "author": "Максим Многословный",
-    "title": "Осенью iPhone получит протокол RCS, а Google уже готова его рекламировать",
-    "description": "Утечка свидетельствует о том, что долгожданная интеграция системы обмена сообщениями RCS на iPhone может наконец увидеть свет этой осенью. И у Google уже готовы промо-изображения.",
-    "url": "https://www.ferra.ru/news/mobile/osenyu-iphone-poluchit-protokol-rcs-a-google-uzhe-gotova-ego-reklamirovat-30-03-2024.htm",
-    "urlToImage": "https://www.ferra.ru/imgs/2024/03/30/13/6415801/d83bc9f7d74bafb7cb2cf915b7059bd6f27bbd03.jpeg",
-    "publishedAt": "2024-03-31T03:00:13Z",
-    "content": "- Google Messages, 9to5Google.   : «Apple , RCS 2024 ».  Google,  Apple   ,   iPhone.\r\n , Apple,     .    - .  ,   -   Android, «». « iPhone»."
+      "source": { "id": null, "name": "Plos.org" },
+      "author": "Anna T. Mikulec, Anna M. Platta, Monika Radzymińska, Millena Ruszkowska, Karolina Mikulec, Grzegorz Suwała, Stanisław Kowalski, Przemysław Łukasz Kowalczewski, Marcin Nowicki",
+      "title": "Attitudes and purchase intentions of polish university students towards food made from insects—A modelling approach",
+      "description": "The marketing of insect-derived protein has led to the development of respective legal regulations on such insects-based foods in the European Union. Despite the interest in the area of insect-based food, European researchers have paid relatively little atten…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300871",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0300871.g001&size=inline",
+      "publishedAt": "2024-03-29T14:00:00Z",
+      "content": "Abstract\r\nThe marketing of insect-derived protein has led to the development of respective legal regulations on such insects-based foods in the European Union. Despite the interest in the area of ins… [+61217 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Yahoo Entertainment"
-    },
-    "author": "People",
-    "title": "Steve Martin Says He Thought His Dad Was 'a Little Embarrassed' by Him",
-    "description": "In his new Apple TV+ documentary film, the comedic actor said his father once described him as 'no Charlie Chaplin'",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b42250f9-e11d-467e-a0b2-a9af416fad85",
-    "urlToImage": null,
-    "publishedAt": "2024-03-31T01:24:21Z",
-    "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "The Feed",
+      "title": "IPL 2024 live in USA: How to watch Indian Premier League matches on Easter weekend",
+      "description": "This year's IPL kicked off on a great note with great performances from the teams. Meanwhile, defending champions Chennai Super Kings are comfortably seated at the top of the IPL points table. Here's how to watch the tournament live.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/ipl-2024-live-in-usa-how-to-watch-indian-premier-league-matches-on-easter-weekend/articleshow/108880640.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108880662,width-1200,height-630,imgsize-80860,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-29T13:47:54Z",
+      "content": "The Indian Premier League season began on March 22 this year with the opening match saw Ruturaj Gaikwad-led Chennai Super Kings go against the Du Plessis-led Royal Challengers Bengaluru at the MA Chi… [+3285 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Minatokobe.com"
-    },
-    "author": "酔いどれ",
-    "title": "Apple、米国の従業員向けにリンクブレスレットとミラネーゼループを大幅割引で提供",
-    "description": "Appleは現在、Apple Watch用のリンクブレスレットとミラネーゼループのバンドを、企業や小売店の従業員向けに40%割引で販売しています。 割引価格 米国の従業員向けには、通常349ドルで販売されているリンクブレスレットが、Appleの従業員向けオンラインストアで209ドルで販売されています。同様に、通常99ドルのミラネーゼループも、現在59ドルの割引価格で提供されています。 これらのバンドはどちらも、2015年に初代Apple Watchが登場して以来、Apple Watchアクセサリーのラインナップの…",
-    "url": "https://minatokobe.com/wp/apple/apple-watch/post-96499.html",
-    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2024/03/AW-Band-Sale.jpg",
-    "publishedAt": "2024-03-31T00:17:47Z",
-    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 15 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Video: When Health Minister Mansukh Mandaviya Played Cricket",
+      "description": "Taking time off from a busy poll schedule, Health Minister Mansukh Mandaviya was seen playing cricket with locals at a multipurpose ground in Gujarat's Porbandar.",
+      "url": "https://www.ndtv.com/india-news/video-when-health-minister-mansukh-mandaviya-played-cricket-5334687",
+      "urlToImage": "https://c.ndtvimg.com/2024-03/1enp6ics_mandaviya-cricket-1200-_625x300_29_March_24.jpg",
+      "publishedAt": "2024-03-29T13:46:37Z",
+      "content": "Minister Mansukh Mandaviya seen playing cricket\r\nTaking time off from a busy poll schedule, Health Minister Mansukh Mandaviya was seen playing cricket with locals at a multipurpose ground in Gujarat'… [+1248 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Elespanol.com"
-    },
-    "author": "Salvador Martínez",
-    "title": "Schmidhuber, padre de la IA: “Europa no ha entendido que se necesita dinero para evitar que el talento se marche”",
-    "description": "El pionero europeo en el desarrollo de la IA responde a EL ESPAÑOL sobre los desafíos que plantea y la desventaja comparativa frente a EE.UU. y China.",
-    "url": "https://www.elespanol.com/invertia/empresas/tecnologia/20240331/schmidhuber-padre-ia-europa-no-entendido-necesita-dinero-evitar-talento-marche/843166116_0.html",
-    "urlToImage": "https://s1.elespanol.com/2024/03/30/invertia/empresas/tecnologia/843925946_241138173_1706x960.jpg",
-    "publishedAt": "2024-03-31T01:51:32Z",
-    "content": "Al padre de la inteligencia artificial no hay que buscarlo en las oficinas de Apple, Google o Amazon. No. Incluso productos estrella de esos grandes nombres tecnológicos estadounidenses, como Siri, A… [+9325 chars]"
+      "source": { "id": null, "name": "Android Police" },
+      "author": "Daniel Allen",
+      "title": "A (nearly) complete list of every MVNO that uses AT&T's towers",
+      "description": "As the second largest carrier in the US, AT&amp;T has coverage all over the US. These MVNOs lease parts of AT&amp;T's infrastructure for prepaid plans.",
+      "url": "https://www.androidpolice.com/mvnos-using-att-list/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/03/att-mvno-hero-2.jpg",
+      "publishedAt": "2024-03-29T12:53:25Z",
+      "content": "AT&amp;T doesn't have the largest pool of MVNOs using its networks, but a few are worth investigating (and a few you should stay away from).\r\nAllvoi\r\nAllvoi has three plans for you to choose from. Th… [+9721 chars]"
     },
     {
-    "source": {
-    "id": "bbc-news",
-    "name": "BBC News"
-    },
-    "author": "https://www.facebook.com/bbcnews",
-    "title": "Aphantasia: Why I cannot see my children in my mind",
-    "description": "Not everyone can picture images in their mind's eye and remember sounds or faces - but why?",
-    "url": "https://www.bbc.co.uk/news/health-68675976",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/918F/production/_133036273_photo-2024-03-19-09-54-40.jpg",
-    "publishedAt": "2024-03-31T00:18:27Z",
-    "content": "Most people can picture images in their heads - the look of an apple, the appearance of their kitchen or the smile of their best friend - but not everyone can.\r\nThose who cannot visualise anything in… [+6364 chars]"
+      "source": { "id": null, "name": "Android Police" },
+      "author": "Jon Gilbert",
+      "title": "Cricket Wireless: How to change your phone number",
+      "description": "If you're a Cricket Wireless customer that gets tons of telemarketing calls, or you're moving to a new area, you can change your phone number.",
+      "url": "https://www.androidpolice.com/cricket-wireless-change-phone-number/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/10/cricket-wireless-generic-hero.png",
+      "publishedAt": "2024-03-29T12:48:48Z",
+      "content": "Cricket Wireless is a prepaid carrier that uses AT&amp;T's network for coverage. It's a great option when you need a good value data plan, especially for multiple lines. You may need to change your p… [+5029 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Livemint"
-    },
-    "author": "Tina Edwin",
-    "title": "Mint Explainer: Why Alphabet, Apple and Meta are in EU’s crosshairs",
-    "description": "The European Commission suspects that the measures put in place by big tech companies fall short of effective compliance with their obligations under the European Union’s Digital Markets Act",
-    "url": "https://www.livemint.com/industry/mint-explainer-why-alphabet-apple-and-meta-are-in-eu-s-crosshairs-11711720765414.html",
-    "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/29/1600x900/BELGIUM-EU-TECHNOLOGY-REGULATION-0_1711727550455_1711727593888.jpg",
-    "publishedAt": "2024-03-31T03:29:11Z",
-    "content": "Alphabet, Apple and Meta might be in deep trouble for suspected breaches of the European Unions Digital Markets Act (DMA) if it is proven that they used their dominant position to impose unfair condi… [+6872 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TOI Sports Desk",
+      "title": "'Dekho woh aa gaya': Rohit Sharma gets warm welcome by fans at Mumbai airport",
+      "description": "Supporters fervently chanted former Mumbai Indians skipper Rohit Sharma's name, showering him with well wishes for Mumbai's upcoming matches. MI will be hosting the Rajasthan Royals in their first home game on April 1 at the Wankhede Stadium. Rohit's devotees…",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/dekho-woh-aa-gaya-rohit-sharma-gets-warm-welcome-by-fans-at-mumbai-airport/articleshow/108878028.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108878020,width-1070,height-580,imgsize-46646,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-29T11:48:25Z",
+      "content": "The TOI Sports Desk excels in a myriad of roles that capture the essence of live sporting events and deliver compelling content to readers worldwide. From running live blogs for India and non-India c… [+908 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Biztoc.com"
-    },
-    "author": "aol.com",
-    "title": "Smartphone maker Xiaomi switches from Apple to Tesla challenger as its first EV racks up 120,000 orders in 36 hours",
-    "description": "Anyone who’s tried a Xiaomi smartphone knows it’s a worthy competitor to the iPhone. Now the question is, will Xiaomi present the same kind of challenge to Tesla as to Apple? On Thursday, the Chinese juggernaut launched its first electric vehicle, the SU7 sed…",
-    "url": "https://biztoc.com/x/3f301749a5ab13e0",
-    "urlToImage": "https://c.biztoc.com/p/3f301749a5ab13e0/s.webp",
-    "publishedAt": "2024-03-31T01:16:11Z",
-    "content": "Anyone whos tried a Xiaomi smartphone knows its a worthy competitor to the iPhone. Now the question is, will Xiaomi present the same kind of challenge to Tesla as to Apple?On Thursday, the Chinese ju… [+273 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Economic Times",
+      "title": "RCB vs KKR IPL Live Score 2024: Can KKR extend their winning streak, or will RCB secure victory on home turf; Kohli- Gambhir war to spice up today's clash",
+      "description": "In Match 10 of IPL 2024, Royal Challengers Bengaluru (RCB) are poised to host Kolkata Knight Riders (KKR) in what promises to be an electrifying clash this Friday. Both teams enter the game on the back of convincing victories in their opening matches, setting…",
+      "url": "https://economictimes.indiatimes.com/news/sports/ipl-2024-rcb-vs-kkr-live-score-updates-scorecard-indian-premier-league-today-live-crircket-match-10-toss-ball-by-ball-commentary-online-faf-du-plessis-virat-kohli-shreyas-iyer-rinku-singh-jio-cinema/liveblog/108877313.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-108877313,width-600,resizemode-4,imglength-72974/news/sports/ipl-2024-rcb-vs-kkr-live-score-updates-scorecard-indian-premier-league-today-live-crircket-match-10-toss-ball-by-ball-commentary-online-faf-du-plessis-virat-kohli-shreyas-iyer-rinku-singh-jio-cinema.jpg",
+      "publishedAt": "2024-03-29T11:20:40Z",
+      "content": "March 22 will see the return of India's favourite sporting spectacle - the Indian Premier League - with ten teams taking part in the 17th edition of the tournament.\r\nRoyal Challengers Bangalore kick … [+3545 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Biztoc.com"
-    },
-    "author": "finance.yahoo.com",
-    "title": "Will Artificial Intelligence (AI) Allow Nvidia to Crush Apple and Microsoft, and Become the Most Valuable \"Magnificent Seven\" Stock?",
-    "description": "Nvidia (NASDAQ: NVDA) has emerged as the hottest player in the artificial intelligence (AI) space. Its cutting-edge graphics processing units (GPUs) are the most important hardware element of the servers that run advanced AI applications. In the particularly …",
-    "url": "https://biztoc.com/x/4f799cdd7dd31cb5",
-    "urlToImage": "https://c.biztoc.com/p/4f799cdd7dd31cb5/s.webp",
-    "publishedAt": "2024-03-31T02:12:05Z",
-    "content": "Nvidia (NASDAQ: NVDA) has emerged as the hottest player in the artificial intelligence (AI) space. Its cutting-edge graphics processing units (GPUs) are the most important hardware element of the ser… [+298 chars]"
+      "source": { "id": null, "name": "Khabarhub.com" },
+      "author": "Khabarhub",
+      "title": "Nepal falls short against Ireland Wolves despite Lokesh’s century",
+      "description": "KATHMANDU: Despite Lokesh’s century, Nepal A faced defeat against Ireland Wolves by 21 runs in the first T20 cricket match. Chasing Ireland A’s target of 223 runs at Tribhuvan University Cricket Ground in Kirtipur, Nepal was bowled out for 201 runs in 19.3 ov…",
+      "url": "https://english.khabarhub.com/2024/29/348539/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/03/nepal-vs-Ireland.jpg",
+      "publishedAt": "2024-03-29T11:20:19Z",
+      "content": "KATHMANDU: Despite Lokesh’s century, Nepal A faced defeat against Ireland Wolves by 21 runs in the first T20 cricket match.\r\nChasing Ireland A’s target of 223 runs at Tribhuvan University Cricket Gro… [+1151 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Digital Journal"
-    },
-    "author": "Markos Papadatos",
-    "title": "Review: ‘The Notebook’ is a new musical on Broadway based on the Nicholas Sparks novel",
-    "description": "\"The Notebook\" is a new musical on Broadway based on the Nicholas Sparks novel.\nThe post Review: ‘The Notebook’ is a new musical on Broadway based on the Nicholas Sparks novel appeared first on Digital Journal.",
-    "url": "https://www.digitaljournal.com/entertainment/review-the-notebook-is-a-new-musical-on-broadway-based-on-the-nicholas-sparks-novel/article",
-    "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/03/Julieta-Cervantes-1-e1711841698884.jpg",
-    "publishedAt": "2024-03-31T00:06:08Z",
-    "content": "John Cardoza, Dorian Harewood, and Ryan Vasquez in 'The Notebook' on Broadway. Photo Credit: Julieta Cervantes.\r\n“The Notebook” is a new musical on Broadway based on the Nicholas Sparks novel.\r\nAllie… [+3034 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET Online",
+      "title": "All about Doodle, the made-in-India electric cycle which MS Dhoni was riding in viral video",
+      "description": "​​Dhoni, known for his love of bikes, often attracts attention with his rides, but this instance has sparked interest due to the promotion of environmentally friendly transport.",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/all-about-doodle-ms-dhonis-made-in-india-electric-cycle/articleshow/108877067.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108877056,width-1200,height-630,imgsize-70034,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-29T11:12:08Z",
+      "content": "Former Indian cricket team captain MS Dhoni, a known car and bike enthusiast, has once again caught the attention of social media users. This time, the Chennai Super Kings player was seen riding a Do… [+772 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Digital Journal"
-    },
-    "author": "AFP",
-    "title": "Istanbul top prize as Turkey votes in local polls",
-    "description": "Turkey holds municipal elections across the country on Sunday, with all eyes on Istanbul, the national “jewel” that President Recep Tayyip Erdogan hopes to pry away from the opposition. Erdogan’s road to power in Turkey began in Istanbul when he was elected m…",
-    "url": "https://www.digitaljournal.com/world/istanbul-top-prize-as-turkey-votes-in-local-polls/article",
-    "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/03/d1e93384336c807368a1e5fec483af501a60da24.jpg",
-    "publishedAt": "2024-03-31T01:24:58Z",
-    "content": "Istanbul, shown here in October 2020, is considered a top electoral prize in Turkey - Copyright AFP/File Ozan KOSE\r\nTurkey holds municipal elections across the country on Sunday, with all eyes on Ist… [+3892 chars]"
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "Ed McCambridge",
+      "title": "'I wasn't as gifted but I tried hard' – Shaun Maloney recalls playing tennis with Andy and Jamie Murray as a youngster",
+      "description": "The Wigan gaffer and FA Cup-winning former player on his days as a tennis prodigy in Scotland",
+      "url": "https://www.fourfourtwo.com/news/i-wasnt-as-gifted-but-i-tried-hard-shaun-maloney-recalls-playing-tennis-with-andy-and-jamie-murray-as-a-youngster",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QFAwyznv4YGzGRnUGTCJbL-1200-80.jpg",
+      "publishedAt": "2024-03-29T11:00:41Z",
+      "content": "From Roy Keane and boxing to Phil Neville and cricket, there are countless examples of professional footballers that could have made a go of a career in an entirely different sport. \r\nBeing ludicrous… [+1929 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Slashdot.org"
-    },
-    "author": "EditorDavid",
-    "title": "In Development Since 2019, NetBSD 10.0 Finally Released",
-    "description": "\"After being in development since 2019, the huge NetBSD 10.0 is out today as a wonderful Easter surprise,\" reports Phoronix:\n\nNetBSD 10 provides WireGuard support, support for many newer Arm platforms including for Apple Silicon and newer Raspberry Pi boards,…",
-    "url": "https://bsd.slashdot.org/story/24/03/30/2143219/in-development-since-2019-netbsd-100-finally-released",
-    "urlToImage": "https://a.fsdn.com/sd/topics/unix_64.png",
-    "publishedAt": "2024-03-31T01:34:00Z",
-    "content": "\"After being in development since 2019, the huge NetBSD 10.0 is out today as a wonderful Easter surprise,\" reports Phoronix:\r\nNetBSD 10 provides WireGuard support, support for many newer Arm platform… [+823 chars]"
+      "source": { "id": null, "name": "Youlookfab.com" },
+      "author": "Angie",
+      "title": "20 Spring and Summer Trends for 2024",
+      "description": "Here are the remaining warmer weather trends for the year.",
+      "url": "https://youlookfab.com/2024/03/29/20-spring-and-summer-trends-for-2024/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-29T10:58:33Z",
+      "content": "Catch up on the jeans and footwear trends for 2024 if you missed them. Here are the rest of the trends for Spring and Summer as I see them. Many are familiar and a continuation of what weve been seei… [+10159 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "PhoneArena"
-    },
-    "author": "Alan Friedman",
-    "title": "iOS Messages feature proclaimed the greatest Apple feature of all time by one Redditor",
-    "description": "A cool feature in the iOS Messages app allows users to combine multiple emojis to create a sticker that can tell a story.",
-    "url": "https://www.phonearena.com/news/unknown-messages-feature-called-goat-apple-featureby-redditor_id156825",
-    "urlToImage": "https://m-cdn.phonearena.com/images/article/156825-wide-two_1200/iOS-Messages-feature-proclaimed-the-greatest-Apple-feature-of-all-time-by-one-Redditor.jpg",
-    "publishedAt": "2024-03-31T03:27:18Z",
-    "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Times Of India",
+      "title": "IPL Live Score: RCB vs KKR",
+      "description": "IPL Live Score RCB vs KKR: Victory in their respective previous games might have eased the initial nerves but imperfections remain, hence Royal Chall",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-live-score-rcb-vs-kkr-match-today-29th-march-royal-challengers-bengaluru-vs-kolkata-knight-riders-chinnaswamy-stadium-bengaluru/liveblog/108876372.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108876372,width-1070,height-580,imgsize-61856,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-29T10:45:53Z",
+      "content": "THE TIMES OF INDIA | Mar 29, 2024, 16:18:11 IST\r\nIPL Live Score RCB vs KKR: Victory in their respective previous games might have eased the initial nerves but imperfections remain, hence Royal Challe… [+3730 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Freerepublic.com"
-    },
-    "author": null,
-    "title": "Question to ameture photo people",
-    "description": "I purchased a decent network laser printe earlier this year and it’s been great. . It’s been great. Now we have grandkids and I learn that inkjet printers do a much better job of printing pictures. So I am looking for recommendations for network inkjet photo …",
-    "url": "https://freerepublic.com/focus/f-chat/4228000/posts",
-    "urlToImage": null,
-    "publishedAt": "2024-03-31T03:05:06Z",
-    "content": "Skip to comments.\r\nQuestion to ameture photo people\r\nMyself\r\nPosted on 03/30/2024 8:05:06 PM PDT by wgmalabama\r\nI purchased a decent network laser printe earlier this year and its been great. . Its b… [+3734 chars]"
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Nagraj Gollapudi",
+      "title": "Smith to Hardik on crowd abuse: 'Block it out, it's all irrelevant'",
+      "description": "\"Being in India and a star Indian player, to be in that position is certainly something he wouldn't have experienced\"",
+      "url": "https://www.espncricinfo.com/story/ipl-2024-mumbai-indians-steven-smith-to-hardik-pandya-on-crowd-abuse-block-it-out-it-is-all-irrelevant-1426920",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/378300/378395.6.jpg",
+      "publishedAt": "2024-03-29T10:35:29Z",
+      "content": "News\"Being in India and a star Indian player, to be in that position is certainly something he wouldn't have experienced\"\r\nSteven Smith's suggestion to Hardik Pandya is to simply \"block out\" the boos… [+5916 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Freerepublic.com"
-    },
-    "author": "siliconanagle",
-    "title": "Report: Microsoft to build ‘Stargate’ supercomputer with millions of chips for OpenAI",
-    "description": "Microsoft Corp. plans to build a supercomputer with millions of processors to support OpenAI’s research, The Information reported today. The system will be geared toward running artificial intelligence workloads. Reportedly codenamed Stargate by Microsoft exe…",
-    "url": "https://freerepublic.com/focus/f-news/4227979/posts",
-    "urlToImage": null,
-    "publishedAt": "2024-03-31T00:27:53Z",
-    "content": "Skip to comments.\r\nReport: Microsoft to build Stargate supercomputer with millions of chips for OpenAI siliconanagle ^\r\n | 03 29 2024\r\n | Maria Deutscher\r\nPosted on 03/30/2024 5:27:53 PM PDT by yesth… [+5276 chars]"
+      "source": { "id": null, "name": "Khabarhub.com" },
+      "author": "Khabarhub",
+      "title": "Lokesh Bam scores century against Ireland Wolves",
+      "description": "KATHMANDU: Lokesh Bam has struck a century against Ireland Wolves. Bam achieved this feat on Friday at TU Cricket Ground. He completed his century in 52 balls, hitting 8 fours and 8 sixes. In the opening T20 match between Ireland Wolves and Nepal ‘A’, Ireland…",
+      "url": "https://english.khabarhub.com/2024/29/348524/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/03/lokesh-bam-e1711708592344.jpg",
+      "publishedAt": "2024-03-29T10:35:05Z",
+      "content": "KATHMANDU: Lokesh Bam has struck a century against Ireland Wolves.\r\nBam achieved this feat on Friday at TU Cricket Ground.\r\nHe completed his century in 52 balls, hitting 8 fours and 8 sixes.\r\nIn the … [+699 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "phillymag.com"
-    },
-    "author": "Laura Brzyski",
-    "title": "The Great Name Awakening: Inside the Audacious, Lucrative World of Baby Naming",
-    "description": "From newborns anointed Wrenlee and Dutton to paid consultants who’ll help find the perfect choice for your little one, the baby-naming process has gotten … weird.",
-    "url": "https://www.phillymag.com/news/2024/03/30/baby-names/",
-    "urlToImage": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2024/03/1200-BabyNames_01.jpg",
-    "publishedAt": "2024-03-31T00:00:10Z",
-    "content": "LongformFrom newborns anointed Wrenlee and Dutton to paid consultants wholl help find the perfect choice for your little one, the baby-naming process has gotten weird.\r\nBaby names gone wild! / Illust… [+20156 chars]"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Times Of India",
+      "title": "IPL Live: Virat vs Gambhir adds spice to RCB vs KKR clash",
+      "description": "RCB vs KKR Live Score, IPL 2024: Victory in their respective previous games might have eased the initial nerves but imperfections remain, hence Royal",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/rcb-vs-kkr-live-score-royal-challengers-bengaluru-vs-kolkata-knight-riders-ipl-scorecard-today-match-playing-xi-2024-m-chinnaswamy-stadium-bengaluru/liveblog/108876071.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108876071,width-1070,height-580,imgsize-63380,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-29T10:34:08Z",
+      "content": "THE TIMES OF INDIA | Mar 29, 2024, 16:27:57 IST\r\nRCB vs KKR Live Score, IPL 2024: Victory in their respective previous games might have eased the initial nerves but imperfections remain, hence Royal … [+3739 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Livedoor.com"
-    },
-    "author": "GIGAZINE（ギガジン）",
-    "title": "コマンド不要でLLMのダウンロードから会話までを実行できる無料チャットAIアプリ「Jan」を使ってみた",
-    "description": "「Jan」は、大規模言語モデル(LLM)のダウンロードからローカルで動作させて実際にチャットするまでの流れをすべてGUIで実行できるアプリです。便利そうだったので、実際にPCにJanをインストールしてLLMとチャットするまでの手順を確かめてみました。Jan | Rethink the Computerhttps://jan.ai/JanはLLMをダウンロードしてローカルで実行するアプリです。LLMとサクサク会話するには、NVIDIA製GPUを搭載マシンかAppleシリコン搭載Macの使用が推奨されています。今回は…",
-    "url": "https://news.livedoor.com/article/detail/26144383/",
-    "urlToImage": "https://image.news.livedoor.com/newsimage/stf/5/0/5051e_88_e4e95d54cdbce27b65c7c0ffa47a503f.png",
-    "publishedAt": "2024-03-31T03:00:00Z",
-    "content": "Jan(LLM)GUIPCJanLLM\r\nJan | Rethink the Computer\r\nhttps://jan.ai/\r\nJanLLMLLMNVIDIAGPUAppleMacGeForce RTX 3090Windows\r\nJanDownload | Jan | Rethink the Computer\r\nhttps://jan.ai/download/\r\nWindowsStandar… [+272 chars]"
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Trends Desk",
+      "title": "Woman requests Blinkit to deliver cricketer Shubham Gill at her doorstep; netizens puzzled",
+      "description": "Shubman Gill is the captain of Gujarat Titans; netizens wondered if she was serious or simply pulling pranks.",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/woman-requests-blinkit-deliver-cricketer-shubham-gill-at-her-doorstep-9240805/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/Digital-creator-requests-Blinkit-to-deliver-Shubman-Gill.jpg",
+      "publishedAt": "2024-03-29T09:58:20Z",
+      "content": "When digital creator @aayushi5005, an admirer of food fashion and unconventional content that has a hint of sarcasm in it, took to social media platform with an unexpected demand, the internet erupte… [+1535 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Independent.ie"
-    },
-    "author": "Sean Pollock",
-    "title": "US judge gives Irish actress green light to pursue Apple over AirTag stalking claim",
-    "description": "An Irish actress has been allowed to proceed with a lawsuit against the technology giant Apple in which she claims one of its products was used to stalk her.",
-    "url": "https://www.independent.ie/business/world/us-judge-gives-irish-actress-green-light-to-pursue-apple-over-airtag-stalking-claim/a1773958582.html",
-    "urlToImage": "https://focus.independent.ie/thumbor/3gpAlXJiw5_1Vaz3PJ8XvxkvgSQ=/0x85:1024x767/629x0/prod-mh-ireland/79f7eb34-e581-4cb9-baaa-caaa4ba2a16f/9da16b5e-f04c-428e-9813-0c9aa650744c/79f7eb34-e581-4cb9-baaa-caaa4ba2a16f.jpg",
-    "publishedAt": "2024-03-31T01:30:00Z",
-    "content": "AirTags are small devices people can attach to belongings, such as lost keys or wallets, to keep tabs on their location\r\nAn Irish actress has been allowed to proceed with a lawsuit against the techno… [+345 chars]"
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "FRANCE 24 English"
-    },
-    "author": "FRANCE24",
-    "title": "Istanbul top prize as Turkey votes in local polls",
-    "description": "Erdogan's road to power in Turkey began in Istanbul when he was elected mayor of the mythic city straddling Europe and Asia in 1994. \n\nHis allies held the city until Ekrem Imamoglu of the secular Republican People's Party (CHP) wrested control five years ago.…",
-    "url": "https://www.france24.com/en/live-news/20240331-istanbul-top-prize-as-turkey-votes-in-local-polls",
-    "urlToImage": "https://s.france24.com/media/display/3aa0ab10-eefd-11ee-8cda-005056bfb2b6/w:1280/p:16x9/69aecee6199baa21b72b78c86b603c3037b3cf45.jpg",
-    "publishedAt": "2024-03-31T01:23:08Z",
-    "content": "Istanbul (AFP) Turkey holds municipal elections across the country on Sunday, with all eyes on Istanbul, the national \"jewel\" that President Recep Tayyip Erdogan hopes to pry away from the opposition… [+3798 chars]"
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "The Telegraph",
+      "title": "Saqib Mahmood: ‘A talk with Rob Key changed how I view my battle back from injury hell’",
+      "description": "Nearing the end of two years of stress fracture hell, Saqib Mahmood does not mind his status as England’s forgotten man.",
+      "url": "https://uk.sports.yahoo.com/news/saqib-mahmood-talk-rob-key-090000277.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CBOS0uyUx2uin93Xr2ABqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDc-/https://media.zenfs.com/en/the_telegraph_818/0b38bdf3eb4b7153b026b436b47f3c14",
+      "publishedAt": "2024-03-29T09:00:00Z",
+      "content": "Saqib Mahmood took six wickets in two Tests on England's tour of the Caribbean in the early spring of 2022 but has been injured virtually ever since - Gareth Copley/Getty Images\r\nNearing the end of t… [+7014 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Elconfidencial.com"
-    },
-    "author": "A. Richart",
-    "title": "Todas las series de estreno en las principales plataformas de 'streaming', entre el 1 y el 7 de abril de 2024",
-    "description": "El actor Diego Martín hace doblete esta semana con el estreno de 'La Academia' en Prime Video, y como secundario en la nueva comedia de los creadores de 'La que se avecina'",
-    "url": "https://www.elconfidencial.com/television/series-tv/2024-03-31/listado-estrenos-semana-14-2024-netflix-disney-prime-video-appletv-movistarplus-skyshowtime-atresplayer-filmin_3856529/",
-    "urlToImage": "https://images.ecestaticos.com/vTsRtCHdH9qu89XMHU2PQqcDYWc=/0x0:2272x1512/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/7a5/be0/44b/7a5be044bb88daeac1ded7e35e8ffbd1.jpg",
-    "publishedAt": "2024-03-31T03:00:00Z",
-    "content": "Miguel Ángel Silvestre, un inspector en Canarias en lo nuevo de La 1 de TVE, Weiss & MoralesAsí es El problema de los tres cuerpos, la nueva amenaza alienígena en Netflix 'imposible' para la cienciaL… [+12479 chars]"
+      "source": { "id": null, "name": "Khabarhub.com" },
+      "author": "Khabarhub",
+      "title": "Ireland Wolves sets 223-run target for Nepal ‘A’ in T20 opener",
+      "description": "KATHMANDU: In the opening T20 match between Ireland Wolves and Nepal ‘A’, Ireland Wolves have set a challenging target of 223 runs. Nepal ‘A’, having won the toss, elected to bowl first against Ireland Wolves at Tribhuvan University International Cricket Grou…",
+      "url": "https://english.khabarhub.com/2024/29/348502/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/03/GJ0n_H7XwAAxV2S-scaled.jpg",
+      "publishedAt": "2024-03-29T08:56:35Z",
+      "content": "KATHMANDU: In the opening T20 match between Ireland Wolves and Nepal ‘A’, Ireland Wolves have set a challenging target of 223 runs.\r\nNepal ‘A’, having won the toss, elected to bowl first against Irel… [+518 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Lavozdegalicia.es"
-    },
-    "author": "Susana Pérez",
-    "title": "El ascenso de la India como tercera economía tiene rédito",
-    "description": "El país crece al 6,5 % gracias a la resiliencia de la demanda interna y el respaldo hacia las reformas estructurales. La Bolsa india se ha revalorizado en torno al 200 % en la última década.",
-    "url": "https://www.lavozdegalicia.es/noticia/mercados/2024/03/31/ascenso-india-tercera-economia-redito/0003_202403SM31P4991.htm",
-    "urlToImage": "https://cflvdg.avoz.es/sc/iqy9xgJH8p0vbaUeqkAcP4vRfzs=/1280x/2024/03/27/00121711559161861963469/Foto/SMM31P4F1_1851.jpg",
-    "publishedAt": "2024-03-31T03:00:00Z",
-    "content": "La India desbancó a China como el país más poblado del mundo en el 2023, con más de 1.400 millones de habitantes. El próximo hito que se vislumbra es su coronación como tercera economía mundial hacia… [+7484 chars]"
+      "source": { "id": null, "name": "Khabarhub.com" },
+      "author": "Khabarhub",
+      "title": "Nepal ‘A’ chooses to field first against Ireland Wolves in T20 opener",
+      "description": "KATHMANDU: Nepal ‘A’ has decided to bowl first in the T20 opener against Ireland Wolves, scheduled for Friday at the Tribhuvan University International Cricket Ground. Originally slated for Thursday, the match was rescheduled due to rain. Nepal ‘A’ will engag…",
+      "url": "https://english.khabarhub.com/2024/29/348488/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/03/GJ0ejAUXIAEDCXh-scaled.jpg",
+      "publishedAt": "2024-03-29T07:17:27Z",
+      "content": "KATHMANDU: Nepal ‘A’ has decided to bowl first in the T20 opener against Ireland Wolves, scheduled for Friday at the Tribhuvan University International Cricket Ground.\r\nOriginally slated for Thursday… [+506 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Lavozdegalicia.es"
-    },
-    "author": "A. Estrada",
-    "title": "El año en que la tercera fortuna de España le ganó el pulso al Gobierno",
-    "description": "Ferrovial cierra doce meses de tensión por su traslado a Ámsterdam con más beneficios pero aún pendiente de poder cotizar en la bolsa de Estados Unidos",
-    "url": "https://www.lavozdegalicia.es/noticia/economia/2024/03/31/ferrovial-cierra-doce-meses-tension-traslado-amsterdam/0003_202403G31P25993.htm",
-    "urlToImage": "https://cflvdg.avoz.es/sc/dfmMyXh-v0sbdhIosRCqan8IhhM=/1280x/2020/11/07/00121604779681151785404/Foto/XN8C7F2_2173.jpg",
-    "publishedAt": "2024-03-31T03:00:00Z",
-    "content": "Hace prácticamente un año que la Junta de Accionistas de Ferrovial aprobó por amplia mayoría el traslado de la sede social de Ferrovial a Países Bajos y su cotización en la Bolsa de Ámsterdam. Una de… [+4985 chars]"
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Compiled by Craig Taylor",
+      "title": "Sport | Rajasthan Royals boost spinning stocks as Proteas tweaker Keshav Maharaj joins IPL franchise",
+      "description": "Proteas spinner Keshav Maharaj will participate in his first-ever IPL tournament after the Rajasthan Royals added him to their squad on Thursday.",
+      "url": "https://www.news24.com/sport/cricket/ipl/rajasthan-royals-boost-spinning-stocks-as-proteas-tweaker-keshav-maharaj-joins-ipl-franchise-20240329",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9843/aa685f2097bf4ec5a98d198e26643112.jpg",
+      "publishedAt": "2024-03-29T05:38:08Z",
+      "content": "<ul><li>The Rajasthan Royals have snapped up Proteas spinner Keshav Maharaj for this year's IPL.</li><li>Maharaj joins the franchise, where he replaces the injured Prasidh Krishna.</li><li>It's Mahar… [+1050 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Iphoneros.com"
-    },
-    "author": "iPhoneros",
-    "title": "Apple empieza el entrenamiento de las Vision Pro en las Apple Store francesas",
-    "description": "Francia será uno de los países que pronto tendrán la posibilidad de vender las Vision Pro, algo que por otro lado ya sabíamos gracias a los nuevos idiomas que las versiones beta de visionOS están teniendo. De los 12 nuevos idiomas seleccionables en el sistema…",
-    "url": "https://iphoneros.com/96653/lanzamiento-vision-pro-en-francia-rumor",
-    "urlToImage": "https://iphoneros.com/wp-content/uploads/2024/02/GFV8GypWkAA-u0s-scaled.jpeg",
-    "publishedAt": "2024-03-31T00:56:35Z",
-    "content": "Francia será uno de los países que pronto tendrán la posibilidad de vender las Vision Pro, algo que por otro lado ya sabíamos gracias a los nuevos idiomas que las versiones beta de visionOS están ten… [+1480 chars]"
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Slashdot.org"
-    },
-    "author": "feedfeeder",
-    "title": "Apple's Website Finally Has 'Tech Specs' Pages for Apple Watch Models - MacRumors",
-    "description": "Apple's Website Finally Has 'Tech Specs' Pages for Apple Watch ModelsMacRumors Apple Watch Comparison Guide: Finding The Perfect Model As Per Your NeedsThe Times of India Why you shouldn’t buy these 5 Apple Watch Series 9 alternativesDigital Trends Apple Watc…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=173417468",
-    "urlToImage": null,
-    "publishedAt": "2024-03-31T00:33:26Z",
-    "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+      "source": { "id": null, "name": "Globalsecurity.org" },
+      "author": "John Pike",
+      "title": "Pakistan to Probe Military's Alleged Coercion of Senior Judges",
+      "description": "Pakistan's government announced Thursday that it will set up a special commission to investigate allegations the military-run spy agency has been subjecting federal judges to intimidation, torture and other abuses to secure favorable judicial rulings in polit…",
+      "url": "https://www.globalsecurity.org/wmd/library/news/pakistan/2024/pakistan-240328-voa01.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-03-29T04:55:42Z",
+      "content": "By Ayaz Gul March 28, 2024\r\nPakistan's government announced Thursday that it will set up a special commission to investigate allegations the military-run spy agency has been subjecting federal judges… [+4735 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Slashdot.org"
-    },
-    "author": "feedfeeder",
-    "title": "Exclusive: Apple explains how the new MacBook Air was designed for travel - The Points Guy",
-    "description": "Exclusive: Apple explains how the new MacBook Air was designed for travelThe Points Guy You can get a MacBook Air for $699 and a Dell XPS 13 for just $599 - is this the best time ever for laptop buyers?TechRadar The only place on the internet to pick up a new…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=173417518",
-    "urlToImage": null,
-    "publishedAt": "2024-03-31T00:54:04Z",
-    "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Sports Desk",
+      "title": "LSG vs PBKS Playing 11, IPL 2024: Extra spinner for Lucknow, Stoinis remains; Bairstow in focus for Punjab",
+      "description": "LSG vs PBKS 2024 Playing 11: The Indian Express looks at both the squads for the opening match of the Indian Premier League 2024 and predicts possible XI's for both Lucknow Super Giants and Punjab Kings.",
+      "url": "https://indianexpress.com/article/sports/cricket/lsg-vs-pbks-playing-11-ipl-2024-prediction-rahul-stoinis-bairstow-9239413/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/New-Project-79.jpg",
+      "publishedAt": "2024-03-29T04:42:51Z",
+      "content": "Lucknow Super Giants vs Punjab Kings Playing 11, IPL 2024: LSG will play their first home game of the IPL season in match 11 against PBKS at the Ekana Cricket Stadium in Lucknow on Saturday.While Rah… [+2713 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Slashdot.org"
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET Now",
+      "title": "Gurmeet Chadha on 2 investment themes he is betting on in FY25",
+      "description": "Gurmeet Chadha discusses market performance, capex cycles, rising retail investment, financial opportunities in HDFC, Kotak, NBFCs, and energy stocks like Power Grid, emphasizing the shift towards equity ownership. He believes In fact, this $3-billion SIP boo…",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/gurmeet-chadha-on-2-investment-themes-he-is-betting-on-in-fy25/articleshow/108851616.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108851580,width-1200,height-630,imgsize-18470,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2024-03-29T04:30:00Z",
+      "content": "Gurmeet Chadha, Managing Partner, Chief Investment Officer, Complete Circle Consultants, says: Had you taken Nifty 50, you would have made 30% last year. If you would have taken mid and smallcaps, yo… [+6130 chars]"
     },
-    "author": "feedfeeder",
-    "title": "You can get a MacBook Air for $699 and a Dell XPS 13 for just $599 - is this the best time ever for laptop buyers? - TechRadar",
-    "description": "You can get a MacBook Air for $699 and a Dell XPS 13 for just $599 - is this the best time ever for laptop buyers?TechRadar Exclusive: Apple explains how the new MacBook Air was designed for travelThe Points Guy The only place on the internet to pick up a new…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=173417374",
-    "urlToImage": null,
-    "publishedAt": "2024-03-31T00:13:57Z",
-    "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Sports Desk",
+      "title": "‘Unless and until you want somebody to fail..’: R Ashwin on whether Yashasvi Jaiswal will succeed in Australia",
+      "description": "R Ashwin says Yashasvi Jaiswal will have the failures but the veteran spinner is sure that the gifted cricketer will learn the valuable lessons.",
+      "url": "https://indianexpress.com/article/sports/cricket/unless-and-until-you-want-somebody-to-fail-r-ashwin-on-whether-yashasvi-jaiswal-will-succeed-in-australia-9239434/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/Jaiswal_7b5397.jpg",
+      "publishedAt": "2024-03-29T04:20:18Z",
+      "content": "R Ashwin has given a blunt reply on a question whether Yashasvi Jaiswal be able to do well in the five-match Test series in Australia, later this year.In the podcast ‘Club Prairie Fire,’ former Engla… [+2994 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNA" },
+      "author": null,
+      "title": "Crawley calls for refinement to 'Bazball' after India defeat",
+      "description": "England need to remain positive and make some adjustments to their aggressive style of play in test cricket following their 4-1 series defeat in India this month, opener Zak Crawley said.India won the series despite losing the first test, with their dominance…",
+      "url": "https://www.channelnewsasia.com/sport/crawley-calls-refinement-bazball-after-india-defeat-4229996",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--iTXoJ4lO--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-03-29t041915z_2_lynxnpek2s02j_rtroptp_3_cricket-test-ind-eng.jpg?itok=NXzi_BzA",
+      "publishedAt": "2024-03-29T04:18:12Z",
+      "content": "England need to remain positive and make some adjustments to their aggressive style of play in test cricket following their 4-1 series defeat in India this month, opener Zak Crawley said.\r\nIndia won … [+1164 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "All-round Sciver-Brunt, Ecclestone set up England's 4-1 series win over New Zealand",
+      "description": "Get cricket scorecard of 5th T20I,  NZ-W vs ENG-W, England Women in New Zealand 2023/24 at Basin Reserve, Wellington dated March 29, 2024.",
+      "url": "https://www.espncricinfo.com/series/england-women-in-new-zealand-2023-24-1388191/new-zealand-women-vs-england-women-5th-t20i-1388206/full-scorecard",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/378400/378458.6.jpg",
+      "publishedAt": "2024-03-29T03:38:37Z",
+      "content": "Royal Challengers Bengaluru"
+    },
+    {
+      "source": { "id": null, "name": "Khabarhub.com" },
+      "author": "Khabarhub",
+      "title": "Riyan Parag’s heroics lead Rajasthan Royals to victory over Delhi Capitals",
+      "description": "KATHMANDU: In a gripping clash at the Sawai Mansingh Stadium in Jaipur, Riyan Parag’s scintillating unbeaten knock of 84 runs off just 45 balls propelled the Rajasthan Royals to a thrilling 12-run victory over the Delhi Capitals in Match 9 of the TATA IPL 202…",
+      "url": "https://english.khabarhub.com/2024/29/348457/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/03/1711649024_Parag-for-report.webp",
+      "publishedAt": "2024-03-29T02:57:16Z",
+      "content": "KATHMANDU: In a gripping clash at the Sawai Mansingh Stadium in Jaipur, Riyan Parag’s scintillating unbeaten knock of 84 runs off just 45 balls propelled the Rajasthan Royals to a thrilling 12-run vi… [+1408 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TOI Sports Desk",
+      "title": "MS Dhoni fever grips Steve Smith, says he is still...",
+      "description": "Steve Smith heaped praise on MS Dhoni's cricketing skills and demeanour on Star Sports. CSK have appointed Ruturaj Gaikwad as captain after Dhoni's successful leadership. Despite Dhoni's departure from the leadership role, CSK commenced their IPL 2024 campaig…",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-fever-grips-steve-smith-says-he-is-still-/articleshow/108865005.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108865140,width-1070,height-580,imgsize-52728,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-29T02:54:24Z",
+      "content": "The TOI Sports Desk excels in a myriad of roles that capture the essence of live sporting events and deliver compelling content to readers worldwide. From running live blogs for India and non-India c… [+908 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Independent.ie" },
+      "author": "David Townsend",
+      "title": "Cricket Ireland to revisit Zimbabwe Test cancellation dilemma",
+      "description": "The Board of Cricket Ireland shied away from cancelling this summer’s proposed Test match against Zimbabwe in Belfast at their meeting on Tuesday but will revisit the thorny issue next month.",
+      "url": "https://www.independent.ie/sport/other-sports/cricket/cricket-ireland-to-revisit-zimbabwe-test-cancellation-dilemma/a1566024560.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/xet3ZhD4UzHxjaPrGhaXAsI05nI=/0x57:4873x3305/629x0/prod-mh-ireland/37dc5c39-ff2d-4f77-87dc-b6ca70d086bd/9a891b4f-4df7-4654-933b-34bed92c90d5/37dc5c39-ff2d-4f77-87dc-b6ca70d086bd.jpg",
+      "publishedAt": "2024-03-29T02:30:00Z",
+      "content": "Ireland players, including captain Andrew Balbirnie, centre, celebrate the run-out of Zimbabwe's Sikandar Raza, during match three of the Dafanews International Cup ODI series between Ireland and Zim… [+65 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Khabarhub.com" },
+      "author": "Khabarhub",
+      "title": "T20 encounter: Nepal ‘A’ set to clash with Ireland ‘A’ today",
+      "description": "KATHMANDU: Nepal ‘A’ is set to clash with Ireland ‘A’ in the opening T20 encounter starting at 2 pm today at Tribhuvan University (TU) Cricket Ground, Kirtipur. The T20 series between Nepal and Ireland ‘A’ faced an initial setback as rain interrupted Thursday…",
+      "url": "https://english.khabarhub.com/2024/29/348444/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/03/Cricket-_-Nepal.webp",
+      "publishedAt": "2024-03-29T01:13:01Z",
+      "content": "KATHMANDU: Nepal ‘A’ is set to clash with Ireland ‘A’ in the opening T20 encounter starting at 2 pm today at Tribhuvan University (TU) Cricket Ground, Kirtipur.\r\nThe T20 series between Nepal and Irel… [+843 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Thehillstimes.in" },
+      "author": "The Hills Times",
+      "title": "RCB, KKR Eye Course Correction To Add Momentum To Campaign",
+      "description": "Bengaluru, Mar 28 (PTI) Victory in their respective previous games might have eased the initial nerves but imperfections remain, hence Royal Challengers Bengaluru and Kolkata Knight Riders will eye a quick course correction to add steam to their campaign in a…",
+      "url": "https://thehillstimes.in/sports/rcb-kkr-eye-course-correction-to-add-momentum-to-campaign",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-29-at-12.15.31-AM.jpeg",
+      "publishedAt": "2024-03-28T22:00:16Z",
+      "content": "Bengaluru, Mar 28 (PTI) Victory in their respective previous games might have eased the initial nerves but imperfections remain, hence Royal Challengers Bengaluru and Kolkata Knight Riders will eye a… [+3663 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sky Sports" },
+      "author": null,
+      "title": "Alonso not expected to be on final Liverpool shortlist",
+      "description": "Xabi Alonso is not expected to be on Liverpool's shortlist this summer, with the Premier League side expecting him to stay at Bayer Leverkusen.",
+      "url": "https://www.skysports.com/football/news/11669/13103603/xabi-alonso-bayer-leverkusen-manager-not-expected-to-be-on-liverpool-shortlist-to-replace-jurgen-klopp",
+      "urlToImage": "https://e0.365dm.com/24/03/1600x900/skysports-xabi-alonso-bayer-leverkusen_6496676.jpg?20240321111529",
+      "publishedAt": "2024-03-28T22:00:00Z",
+      "content": "Xabi Alonso is not expected to be on Liverpool's shortlist this summer, with the Premier League side expecting him to stay at Bayer Leverkusen.\r\nAlonso was believed to be a strong target to replace J… [+1266 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Touch Arcade" },
+      "author": "Shaun Musgrave",
+      "title": "SwitchArcade Round-Up: ‘Pepper Grinder’, ‘Missile Dancer 2’, ‘Open Roads’, Plus Today’s Other Releases and Sales",
+      "description": "Hello gentle readers, and welcome to the SwitchArcade Round-Up for March 28th, 2024. This… is quite the Thursday for new … Continue reading \"SwitchArcade Round-Up: ‘Pepper Grinder’, ‘Missile Dancer 2’, ‘Open Roads’, Plus Today’s Other Releases and Sales\"",
+      "url": "https://toucharcade.com/2024/03/28/pepper-grinder-switch-download-eshop-missile-dancer-2-shmup-open-roads-game-deals/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-28T21:42:26Z",
+      "content": "Hello gentle readers, and welcome to the SwitchArcade Round-Up for March 28th, 2024. This… is quite the Thursday for new releases. More than two dozen new games, and surprisingly few of them are bin … [+16382 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Thehillstimes.in" },
+      "author": "The Hills Times",
+      "title": "Suryakumar Yadav Might Take Few More Days To Get Match Fit: BCCI Source",
+      "description": "New Delhi, Mar 28 (PTI) World’s number one T20 batter Suryakumar Yadav will skip a few more IPL matches as he continues to recover from a sports hernia surgery with the National Cricket Academy (NCA) keeping a watch on his progress. Yadav, who plays for Mumba…",
+      "url": "https://thehillstimes.in/sports/suryakumar-yadav-might-take-few-more-days-to-get-match-fit-bcci-source",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-29-at-12.13.50-AM.jpeg",
+      "publishedAt": "2024-03-28T21:30:01Z",
+      "content": "New Delhi, Mar 28 (PTI) World’s number one T20 batter Suryakumar Yadav will skip a few more IPL matches as he continues to recover from a sports hernia surgery with the National Cricket Academy (NCA)… [+1095 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET Bureau",
+      "title": "IPL opening day viewership on strong wicket, hits record",
+      "description": "The opening day on March 22 also witnessed the highest-ever peak TV concurrency of 61 million viewers. Disney Star, which is the official broadcaster of the IPL, is airing the matches on the Star Sports network. “This growth is a reaffirmation of the incompar…",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/ipl-opening-day-viewership-on-strong-wicket-hits-record/articleshow/108860209.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108860206,width-1200,height-630,imgsize-9378,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-28T19:24:11Z",
+      "content": "MUMBAI: The Indian Premier League (IPL) has smashed TV and streaming records, with both Star Sports and JioCinema recording strong viewership growth on the opening day. Chennai Super Kings trounced R… [+1716 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sky Sports" },
+      "author": null,
+      "title": "Chelsea to face Barcelona in Women's Champions League semi-finals",
+      "description": "Chelsea will play Barcelona in the semi-finals of the Women's Champions League after the European champions secured a 5-2 aggregate victory over Brann.",
+      "url": "https://www.skysports.com/football/news/11095/13103525/barcelona-3-1-brann-5-2-aggregate-chelsea-to-face-spanish-side-in-womens-champions-league-semi-finals",
+      "urlToImage": "https://e0.365dm.com/24/03/1600x900/skysports-barcelona-champions-league_6503679.jpg?20240328194031",
+      "publishedAt": "2024-03-28T19:20:00Z",
+      "content": "Chelsea will play Barcelona in the semi-finals of the Women's Champions League after the European champions secured a 5-2 aggregate victory over Brann.\r\nBarcelona - who beat Wolfsburg 3-2 in the fina… [+2005 chars]"
+    },
+    {
+      "source": { "id": null, "name": "VOA News" },
+      "author": "webdesk@voanews.com (Ayaz Gul)",
+      "title": "Pakistan to Probe Military's Alleged Coercion of Senior Judges",
+      "description": "Islamabad — Pakistan’s government announced Thursday that it will set up a special commission to investigate allegations the military-run spy agency has been subjecting federal judges to intimidation, torture and other abuses to secure favorable judicial ruli…",
+      "url": "https://www.voanews.com/a/pakistan-to-probe-military-s-alleged-coercion-of-senior-judges/7547645.html",
+      "urlToImage": "https://gdb.voanews.com/39F73964-1EE4-4395-95FB-5062E6A231A7.jpg",
+      "publishedAt": "2024-03-28T19:10:33Z",
+      "content": "Islamabad  Pakistans government announced Thursday that it will set up a special commission to investigate allegations the military-run spy agency has been subjecting federal judges to intimidation, … [+4593 chars]"
+    },
+    {
+      "source": { "id": null, "name": "FRANCE 24 English" },
+      "author": "FRANCE24",
+      "title": "'Very special' Parag powers Rajasthan to IPL win over Delhi",
+      "description": "Rishabh Pant-led Delhi won the toss and chose to field first and maintained a stranglehold over the game until the second half of the Royals' innings.\n\nRajasthan lost both their explosive openers Yashasvi Jaiswal (five) and Jos Buttler (11) early and even bat…",
+      "url": "https://www.france24.com/en/live-news/20240328-very-special-parag-powers-rajasthan-to-ipl-win-over-delhi",
+      "urlToImage": "https://s.france24.com/media/display/6937d16c-ed34-11ee-89a7-005056a97e36/w:1280/p:16x9/0c0f784165cf57777bd16c4fa699f509429b97e0.jpg",
+      "publishedAt": "2024-03-28T18:53:06Z",
+      "content": "Jaipur (India) (AFP) Riyan Parag's unbeaten 45-ball 84 propelled Rajasthan Royals to 185-5 and sealed a 12-run win over the Delhi Capitals in IPL on Thursday. Rishabh Pant-led Delhi won the toss and … [+2418 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Rahul Pandey",
+      "title": "How the much-chided Riyan Parag composed his IPL-best to orchestrate RR’s win over DC",
+      "description": "The 22-year-old’s 45-balled 84 plotted RR’s 12-run win over Capitals while Nandre Burger and Avesh Khan provided closing touches.",
+      "url": "https://indianexpress.com/article/sports/ipl/riyan-parag-84-rr-vs-dc-nandre-burger-avesh-khan-warner-9239036/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/Riyan-Parag.jpg",
+      "publishedAt": "2024-03-28T18:45:22Z",
+      "content": "Synopsis:Delhi set up the game with early breakthroughs but Riyan Parag, in his new role, turned the tide. Despite early wickets, David Warner posed a threat but Avesh Khan would see off the game for… [+5432 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TOI Sports Desk",
+      "title": "'Focus is always on the execution and back my yorkers': Rajasthan Royals pacer Avesh Khan after his match-winning final over",
+      "description": "Needing 17 off the last over, Delhi Capitals could all manage 4 runs courtesy fine yorker length deliveries by pacer Avesh Khan as Rajasthan Royals registered 12-run win, their second of the IPL 2024 season. Explaining his approach, Avesh, who returned figure…",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/focus-is-always-on-the-execution-and-back-my-yorkers-rajasthan-royals-pacer-avesh-khan-after-his-match-winning-final-over/articleshow/108859815.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108859802,width-1070,height-580,imgsize-37404,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-28T18:29:36Z",
+      "content": "The TOI Sports Desk excels in a myriad of roles that capture the essence of live sporting events and deliver compelling content to readers worldwide. From running live blogs for India and non-India c… [+908 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Khanyiso Tshwaku",
+      "title": "Sport | White-ball only Proteas deals: Van der Dussen not necessarily lost to Test cricket",
+      "description": "Rassie van der Dussen may be on Cricket SA's contracting system for the next year, but the fact he's on a white-ball only contract having not played red-ball cricket since 2022 makes his Test future rather unclear.",
+      "url": "https://www.news24.com/sport/cricket/proteas/white-ball-only-proteas-deals-van-der-dussen-not-necessarily-lost-to-test-cricket-20240328",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10292/701f4e768fe542d9a15afd5de6aed548.jpg",
+      "publishedAt": "2024-03-28T18:24:37Z",
+      "content": "Cricket South Africa's director of cricket, Enoch Nkwe, said Proteas batter Rassie van der Dussen hasn't retired from red-ball cricket even though he signed a contract with the organisation that sees… [+378 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Robert Kidd, Senior Contributor, \n Robert Kidd, Senior Contributor\n https://www.forbes.com/sites/robertkidd/",
+      "title": "The FIFA Series Is The Soccer Competition We Didn’t Know We Needed",
+      "description": "A pilot of mini-tournaments gave often overlooked international teams a rare chance to meet — and to make history.",
+      "url": "https://www.forbes.com/sites/robertkidd/2024/03/28/the-fifa-series-is-the-soccer-competition-we-didnt-know-we-needed/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6605a2a90716ab7cefa7cce7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-03-28T17:09:47Z",
+      "content": "COLOMBO, SRI LANKA - MARCH 25: Oliver James Kelaart of Sri Lanka celebrates scoring his team's ... [+] second goal with Dillon Senan de Silva during the FIFA Series 2024 Sri Lanka match between Sri L… [+5164 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "Khabarhub.com" },
+      "author": "Khabarhub",
+      "title": "Today’s national news in a nutshell",
+      "description": "Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. SEE begins today The Secondary Education Examination (SEE) is beginning today (Thursday). Altogether 504,414 stude…",
+      "url": "https://english.khabarhub.com/2024/28/348418/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/02/Khabar-Hub-_Nepal-Today_1200px-630X-px-Final_2022.03.22-Final.jpg",
+      "publishedAt": "2024-03-28T16:15:21Z",
+      "content": "Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more.\r\nSEE begins today\r\nThe Secondary Education Examination… [+4827 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "A-sports.tv" },
+      "author": "Shahzad.malik",
+      "title": "Pakistan players kick off training in fitness camp at Kakul",
+      "description": "ABBOTTABAD: Pakistan players on Thursday, underwent training in the ongoing physical fitness camp here at Kakul.",
+      "url": "https://a-sports.tv/pakistan-players-kick-off-training-fitness-camp-kakul/",
+      "urlToImage": "https://a-sports.tv/wp-content/uploads/2024/03/pakistan-players-undergo-physical-fitness-camp-kakul.jpg",
+      "publishedAt": "2024-03-28T15:52:40Z",
+      "content": "ABBOTTABAD: Pakistan players on Thursday, underwent training in the ongoing physical fitness camp here at Kakul.\r\nAccording to the details, the Pakistan players underwent training and gym exercises d… [+2090 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Flintoff returns to BBC with Field of Dreams show",
+      "description": "The former cricket star will return with a second series of his cricket documentary Field of Dreams.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-68683123",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1255/production/_133039640_gettyimages-1864909013.jpg",
+      "publishedAt": "2024-03-28T15:48:57Z",
+      "content": "Andrew \"Freddie\" Flintoff is making his TV return after his Top Gear accident with a second series of BBC One cricket documentary, Field of Dreams.\r\nThe news, announced in the BBC's annual plan, says… [+2314 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Www.nrc.nl" },
+      "author": "Joël Broekaert",
+      "title": "Het restaurant van de Indiase cricketheld Suresh Raina is niet de spannendste Indiër, maar je hebt er een prima avond",
+      "description": "Van de kaart: De Indiase cricketheld Suresh Raina is in Amsterdam een restaurant begonnen. Het is volgens Joël Broekaert niet per se chic, maar ontstijgt zeker de gemiddelde afhaaltoko.",
+      "url": "https://www.nrc.nl/nieuws/2024/03/28/het-restaurant-van-de-indiase-cricketheld-suresh-raina-is-niet-de-spannendste-indier-maar-je-hebt-er-een-prima-avond-a4194367",
+      "urlToImage": "https://images.nrc.nl/3RaiRGgIq9G9pCp7sZeX5B_vhqI=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2024/03/data113561666-a7162f.jpg",
+      "publishedAt": "2024-03-28T15:16:44Z",
+      "content": "Suresh Raina is de Johan Cruyff van India. Dat is de simpelste manier om uitleggen hoe groot de faam van deze oud-cricketspeler is. Het had zwart gezien van de fans tijdens de opening van zijn restau… [+6119 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Jack Beresford",
+      "title": "Chihuahua Relegated From Owner's Lap to Car Seat—She's Not Happy About It",
+      "description": "Kymberli Aeschliman told Newsweek 9-month-old Thistle is \"always\" on her lap, so she expected a \"dramatic\" reaction to the car seat.",
+      "url": "https://www.newsweek.com/chihuahua-relegated-owner-lap-car-seat-1884587",
+      "urlToImage": "https://d.newsweek.com/en/full/2369473/thistle-chihuahua-was-left-heartbroken.png",
+      "publishedAt": "2024-03-28T15:09:28Z",
+      "content": "A chihuahua reacted in adorably dramatic fashion after being made to sit in a car seat rather than on her mom's lap during a trip out.\r\nThistle may only be nine months old but she's already very atta… [+3673 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET Online",
+      "title": "Congress considers fielding Sania Mirza in Hyderabad Lok Sabha elections according to sources",
+      "description": "The Congress party is considering nominating tennis star Sania Mirza as its candidate for the upcoming Lok Sabha elections in Hyderabad. This move aims to capitalize on her popularity and celebrity status to challenge the All India Majlis-e-Ittehad-ul-Muslime…",
+      "url": "https://economictimes.indiatimes.com/news/elections/lok-sabha/telangana/congress-considers-fielding-sania-mirza-in-hyderabad-lok-sabha-elections-according-to-sources/articleshow/108856121.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108856108,width-1200,height-630,imgsize-91838,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-28T14:08:29Z",
+      "content": "In a surprising move, the Congress party is reportedly contemplating nominating tennis star Sania Mirza as its candidate for the forthcoming Lok Sabha elections in Hyderabad. This development is seen… [+2280 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET Online",
+      "title": "Congress considers fielding Sania Mirza in Hyderabad Lok Sabha elections according to sources",
+      "description": "The Congress party is considering nominating tennis star Sania Mirza as its candidate for the upcoming Lok Sabha elections in Hyderabad. This move aims to capitalize on her popularity and celebrity status to challenge the All India Majlis-e-Ittehad-ul-Muslime…",
+      "url": "https://economictimes.indiatimes.com/news/elections/lok-sabha/telangana/congress-considers-fielding-sania-mirza-in-hyderabad-lok-sabha-elections-according-to-sources/articleshow/108856117.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108856108,width-1200,height-630,imgsize-91838,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-28T14:08:29Z",
+      "content": "In a surprising move, the Congress party is reportedly contemplating nominating tennis star Sania Mirza as its candidate for the forthcoming Lok Sabha elections in Hyderabad. This development is seen… [+2280 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "The Feed",
+      "title": "IPL in USA: How to check live score and updates for free",
+      "description": "Organized by the Board of Control for Cricket in India (BCCI), IPL 2024 officially began on March 22, when defending champs Chennai Super Kings played against Royal Challengers Bengaluru.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/ipl-in-usa-how-to-check-live-score-and-updates-for-free/articleshow/108855711.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108855819,width-1200,height-630,imgsize-114290,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-28T13:56:55Z",
+      "content": "Indian Premier League (IPL) fever finally began after a long wait and the start to the season has seen some record-breaking feats including last night's high-scoring thriller between Sunrisers Hydera… [+3054 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Jayashree Narayanan",
+      "title": "‘Artificial intelligence-driven music is a good thing, so far’: Singer Amit Mishra",
+      "description": "As a trained musician, singer Amit Mishra feels Bollywood and classical music have their niche, and the key is to take a balanced perspective.",
+      "url": "https://indianexpress.com/article/lifestyle/art-and-culture/singer-amit-mishra-artificial-intelligence-ai-music-good-9222819/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/amit-mishra_600.jpeg",
+      "publishedAt": "2024-03-28T13:42:44Z",
+      "content": "Bulleya singer Amit Mishra has come a long way. The songwriter and live performer who has gradually sung in several films, including Ae Dil Hai Mushkil, feels live shows offer a unique space for prom… [+1752 chars]"
+    },
+    {
+      "source": { "id": "la-nacion", "name": "La Nacion" },
+      "author": "Jorge Búsico",
+      "title": "El legado de Free Lance, mi última nota en La Nación y también en el periodismo",
+      "description": "El legado de Free Lance, mi última nota en La Nación y también en el periodismo",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/el-legado-de-free-lance-mi-ultima-nota-en-la-nacion-y-tambien-en-el-periodismo-nid28032024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/una-postal-de-1979-en-un-partido-entre-los-pumas-RN2B4EJJBZFIFFOMZHA3T6LLVU.jpg?auth=c4a2f8ab4ac88cce9675645ccde4eeffd43bcfa295adbbf87da8c445608cefdb&width=768&quality=70&smart=false",
+      "publishedAt": "2024-03-28T12:54:19Z",
+      "content": "Hugo Mackern (17 de noviembre de 1909-27 de abril de 1998) es la referencia máxima cuando se habla del periodismo de rugby; la pluma de este deporte. Los textos que escribió durante 50 años en la rev… [+3732 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Pratyush Raj",
+      "title": "With Yuvraj Singh as mentor and Brian Lara as guide, SRH’s Abhishek Sharma hopes to realise his potential",
+      "description": "Yuvraj Singh had admonished Abhishek Sharma with a post on X about the way he got out after scoring Sunrisers Hyderabad's fastest fifty — in just 16 balls  — on Wednesday night.",
+      "url": "https://indianexpress.com/article/sports/ipl/srh-vs-mi-abhishek-sharma-yuvraj-singh-brian-lara-9238517/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/abhishek-sharma.jpg",
+      "publishedAt": "2024-03-28T12:48:40Z",
+      "content": "In a Sunrisers Hyderabad batting line up comprising bonafide stars Travis Head, Aiden Markram and Heinrich Klaasen 23-year-old Abhishek Sharma didn’t look out of place on Wednesday night. Sharma’s 63… [+4657 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Sports Desk",
+      "title": "R Ashwin: ‘Sometimes I wonder if IPL is even cricket… We do end up practising on sets during ad shoots’",
+      "description": "Ashwin also recounted on the podcast how cricketer Scott Styris had once told him that he thought the IPL will only run for two or three seasons.",
+      "url": "https://indianexpress.com/article/sports/ipl/ravichandran-ashwin-wonder-if-ipl-is-even-cricket-sets-ad-shoots-9237982/",
+      "urlToImage": "https://images.indianexpress.com/2024/03/RAVICHANDRAN-ASHWIN-CROP.jpg",
+      "publishedAt": "2024-03-28T12:23:41Z",
+      "content": "One of the biggest veterans in the ongoing Indian Indian Premier League, Ravichandran Ashwin, has detailed how the IPL’s growth caught even the players off guard. The wily spinner recounted how when … [+2010 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "\"Few Can Score As Much As Me, But...\": Sachin Pilot On Not Contesting Polls",
+      "description": "Congress leader Sachin Pilot has said the decision not to contest the Lok Sabha elections is a calculated one and, using a cricket analogy, claimed few people can score as many runs for his party as him when he enters the electoral playground.",
+      "url": "https://www.ndtv.com/india-news/ndtv-yuva-conclave-few-can-score-as-much-as-me-but-sachin-pilot-on-not-fighting-lok-sabha-polls-5327772",
+      "urlToImage": "https://c.ndtvimg.com/2024-03/e6utekl8_sachin-pilot_625x300_28_March_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240316.08",
+      "publishedAt": "2024-03-28T12:18:28Z",
+      "content": "Mr Pilot also spoke about the suspense over the Amethi and Rae Bareli seats.\r\nNew Delhi: Congress leader Sachin Pilot has said the decision not to contest the Lok Sabha elections is a calculated one … [+2767 chars]"
+    },
+    {
+      "source": { "id": null, "name": "FRANCE 24 English" },
+      "author": "FRANCE24",
+      "title": "Sharfuddoula becomes first Bangladeshi on ICC elite umpire panel",
+      "description": "Sharfuddoula, 47, who last year became the first umpire from Bangladesh to take charge of a World Cup match, had been on the international panel since 2006.\n\n\"It is a great honour to be named on the ICC Elite Panel,\" Sharfuddoula said in an ICC statement.\n\n\"T…",
+      "url": "https://www.france24.com/en/live-news/20240328-sharfuddoula-becomes-first-bangladeshi-on-icc-elite-umpire-panel",
+      "urlToImage": "https://s.france24.com/media/display/c497964c-5ea4-11ee-97f5-005056a90284/w:1280/p:16x9/b9886868413dea5e1d2cd4319104bf4b4ef32829.jpg",
+      "publishedAt": "2024-03-28T12:07:07Z",
+      "content": "Dhaka (AFP) Sharfuddoula Ibne Shahid said on Thursday it was a \"great honour\" to be named the first Bangladeshi to join the International Cricket Council's Elite Panel of umpires. Sharfuddoula, 47, w… [+2224 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET Online",
+      "title": "Tata IPL Day 1: Highest ever watch-time and peak TV concurrency registered for an opening day match, Disney Star says",
+      "description": "The 17th edition of the Tata IPL 2024 garnered a record-breaking viewership of 16.8 crore unique viewers on its opening day, with a total watch-time of 1,276 crore minutes and a peak TV concurrency of 6.1 crore viewers on the Disney Star network. Star Sports …",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/tata-ipl-day-1-highest-ever-watch-time-and-peak-tv-concurrency-registered-for-an-opening-day-match-disney-star-says/articleshow/108852671.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108853114,width-1200,height-630,imgsize-188108,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-28T11:58:35Z",
+      "content": "Around 16.8 crore unique viewers saw the broadcast of the 17th edition of the Tata IPL 2024 on the first day of the season, pushing the watch-time to a record high for the opening day of any IPL seas… [+1464 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Mohammad Isam",
+      "title": "Sharfuddoula becomes first Bangladeshi in ICC Elite Panel of Umpires",
+      "description": "Veteran Chris Broad, however, is not in the Elite Panel of Match Referees",
+      "url": "https://www.espncricinfo.com/story/sharfuddoula-the-first-from-bangladesh-in-icc-elite-panel-of-umpires-1426802",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/375000/375089.6.jpg",
+      "publishedAt": "2024-03-28T11:39:01Z",
+      "content": "NewsVeteran Chris Broad, however, is not in the Elite Panel of Match Referees\r\nSharfuddoula is the first from Bangladesh in the ICC Elite Panel of Umpires  •  Matthew Lewis/ICC/Getty Images\r\nThe ICC … [+3027 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Economic Times",
+      "title": "RR vs DC Live Score, IPL 2024: Delhi Capitals gear up for clash against Rajasthan Royals; Rishabh Pant set for milestone 100th IPL match",
+      "description": "RR vs DC Live Score, IPL 2024, Rajasthan Royals vs Delhi Capitals: In today's IPL match, Jaipur is set to witness a clash between Rajasthan and Delhi at the Sawai Mansingh Stadium. This is the second outing for both teams in the tournament. While Delhi Capita…",
+      "url": "https://economictimes.indiatimes.com/news/sports/rr-vs-dc-live-score-updates-t20-ipl-2024-cricket-match-scorecard-rajasthan-royals-vs-delhi-capitals-indian-premier-league-sawai-mansingh-stadium-jaipur-weather-forecast-28-march/liveblog/108852145.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-108852145,width-600,resizemode-4,imglength-43366/news/sports/rr-vs-dc-live-score-updates-t20-ipl-2024-cricket-match-scorecard-rajasthan-royals-vs-delhi-capitals-indian-premier-league-sawai-mansingh-stadium-jaipur-weather-forecast-28-march.jpg",
+      "publishedAt": "2024-03-28T11:32:12Z",
+      "content": "March 22 will see the return of India's favourite sporting spectacle - the Indian Premier League - with ten teams taking part in the 17th edition of the tournament.\r\nRoyal Challengers Bangalore kick … [+3545 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Sports Desk",
+      "title": "Andhra Cricket Association serves show-cause notice to Hanuma Vihari: ‘This is a chance for him to come out with his grievances’",
+      "description": "ACA's notice comes a month after Vihari had taken to his social media to announce that he will \"never play for Andhra again\", alleging that he was forced to step down from his role as captain.",
+      "url": "https://indianexpress.com/article/sports/cricket/hanuma-vihari-andhra-cricket-aca-controversy-show-cause-notice-noc-9238211/",
+      "urlToImage": "https://images.indianexpress.com/2024/02/New-Project-10-1.jpg",
+      "publishedAt": "2024-03-28T11:23:07Z",
+      "content": "The Andhra Cricket Association (ACA) has served a show cause notice to Hanuma Vihari, in response to the former Andhra skipper pointing out political interferences in the association that led to his … [+2918 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "PTI",
+      "title": "Suryakumar Yadav might take few more days to get match fit: BCCI source",
+      "description": "Suryakumar Yadav recovering from a sports hernia surgery will miss more IPL matches. NCA monitors his progress. MI faces losses. BCCI ensures T20 World Cup fitness. Yadav, with a 171.55 strike rate, plays Rajasthan Royals in Mumbai.",
+      "url": "https://economictimes.indiatimes.com/news/sports/suryakumar-yadav-might-take-few-more-days-to-get-match-fit-bcci-source/articleshow/108851237.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-108851283,width-1200,height-630,imgsize-10104,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-03-28T11:08:04Z",
+      "content": "World's number one T20 batter Suryakumar Yadav will skip a few more IPL matches as he continues to recover from a sports hernia surgery with the National Cricket Academy (NCA) keeping a watch on his … [+1137 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": null,
+      "title": "Saskatchewan rink shooting for record-setting win at Canadian Wheelchair Curling Championships",
+      "description": "Saskatchewan’s Marie Wright and her rink are going for a record-breaking fifth national championship.",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/canadian-wheelchair-curling-championships-moose-jaw-1.7157268",
+      "urlToImage": "https://i.cbc.ca/1.7157418.1711568343!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gil-dash.jpg",
+      "publishedAt": "2024-03-28T11:00:00Z",
+      "content": "Saskatchewan's Marie Wright and British Columbia's Ina Forrest have a lot in common. They're both national team-level curlers, they're longtime friends and they're both competing at this week's Canad… [+5318 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Deeksha Somani",
+      "title": "What is it phone tapping, signs that your phone is being tapped and what to do about it",
+      "description": "In the digital age, privacy and security issues heighten with concerns over phone tapping, necessitating immediate action like security audits, software updates, and seeking help from cybersecurity experts for potential phone tapping incidents.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-tips/what-is-it-phone-tapping-signs-that-your-phone-is-being-tapped-and-what-to-do-about-it/articleshow/108848834.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108848944,width-1070,height-580,imgsize-26472,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-28T10:11:53Z",
+      "content": "In the digital age, privacy and security issues heighten with concerns over phone tapping, necessitating immediate action like security audits, software updates, and seeking help from cybersecurity e… [+1771 chars]"
     }
-    ]
-    }
+  ]
+}
